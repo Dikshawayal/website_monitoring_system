@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block page_title %}Monitoring Logs{% endblock %}
+
+{% block content %}
+
+<div class="d-flex align-items-center justify-content-between gap-3 mb-4">
+    <div>
+        <h4 class="fw-bold mb-1" style="font-size:18px;">All Monitoring Logs</h4>
+        <span class="text-muted" style="font-size:13px;">Track every check across all websites</span>
+    </div>
+    <a href="{% url 'website_list' %}" class="btn btn-outline-primary">
+        <i class="bi bi-arrow-left me-1"></i> Back to Websites
+    </a>
+</div>
+
+<div class="card-table">
+    <div class="table-wrapper">
+        <table class="table-custom">
+            <thead>
+                <tr>
+                    <th>Website</th>
+                    <th>Status</th>
+                    <th>HTTP Code</th>
+                    <th>Response Time</th>
+                    <th>Checked At</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for log in logs %}
+                <tr>
+                    <td class="fw-semibold">{{ log.website.name }}</td>
+                    <td>
+                        {% if log.status == 'UP' %}
+                            <span class="status-badge status-up">Active</span>
+                        {% else %}
+                            <span class="status-badge status-down">Down</span>
+                        {% endif %}
+                    </td>
+                    <td class="text-muted">{{ log.status_code|default:"—" }}</td>
+                    <td class="text-muted">{{ log.response_time }} ms</td>
+                    <td class="text-muted" style="font-size:13px;">{{ log.checked_at|timesince }} ago</td>
+                </tr>
+                {% empty %}
+                <tr>
+                    <td colspan="5" class="text-center py-5" style="color:var(--text-muted);">
+                        <i class="bi bi-inbox" style="font-size:28px; display:block; margin-bottom:8px;"></i>
+                        No logs available yet.
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+{% endblock %}
