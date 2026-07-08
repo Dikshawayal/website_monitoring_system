@@ -1,38 +1,96 @@
-from apscheduler.schedulers.background import BackgroundScheduler
-from .models import Website, MonitorLog
-from .checker import check_website
+import logging
+from .models import SchedulerStatus
+from datetime import timedelta
 from django.utils import timezone
+from apscheduler.schedulers.background import BackgroundScheduler
+from .checker import check_all_websites
 
+logger = logging.getLogger(__name__)
+
+scheduler = BackgroundScheduler()
+job = None
 
 def monitor_all_websites():
+    """
+    Function executed every 5 hours.
+    """
 
-    websites = Website.objects.all()
+    global job
 
-    for website in websites:
+    logger.info("========================================")
+    logger.info("Scheduled Website Check Started")
+    logger.info("========================================")
 
-        result = check_website(website.url)
+    try:
+        # Check all websites
+        check_all_websites()
 
-        website.status = result['status']
-        website.response_time = result['response_time']
-        website.last_checked = timezone.now()
-        website.save()
+        # Update scheduler status
+        status, created = SchedulerStatus.objects.get_or_create(id=1)
 
-        MonitorLog.objects.create(
-            website=website,
-            status=result['status'],
-            status_code=result['status_code'],
-            response_time=result['response_time']
-        )
+        now = timezone.localtime()
 
+        status.status = "Running"
+        status.last_run = now
+        current_job = scheduler.get_job("check_all_websites")
+        if current_job:
+            status.next_run = timezone.localtime(current_job.next_run_time)
+        else:
+            status.next_run = now + timedelta(hours=5)
+        status.interval = "Every 5 Hours"
+        status.save()
 
+    except Exception as e:
+        logger.exception("Scheduler Error: %s", e)
+
+    logger.info("========================================")
+    logger.info("Scheduled Website Check Finished")
+    logger.info("========================================")
 def start():
+    """
+    Starts APScheduler only once.
+    """
 
-    scheduler = BackgroundScheduler()
+    global job
+    global scheduler_status
 
-    scheduler.add_job(
+    if scheduler.running:
+        logger.info("Scheduler already running.")
+        return
+
+    job = scheduler.add_job(
         monitor_all_websites,
-        'interval',
-        minutes=5
+        trigger="interval",
+        hours=5,
+        id="check_all_websites",
+        name="Check all websites every 5 hours",
+        replace_existing=True,
+        next_run_time=timezone.now()
     )
 
     scheduler.start()
+    status, created = SchedulerStatus.objects.get_or_create(id=1)
+    status.status = "Running"
+    status.next_run = timezone.localtime(job.next_run_time)
+    status.interval = "Every 5 Hours"
+    status.save()
+
+    scheduler_status = "Running"
+
+    logger.info("========================================")
+    logger.info("APScheduler Started Successfully")
+    logger.info("Job Name : %s", job.name)
+    logger.info("Next Run : %s", timezone.localtime(job.next_run_time))
+    logger.info("========================================")
+def get_scheduler_info():
+    """
+    Returns current scheduler information.
+    """
+    status, created = SchedulerStatus.objects.get_or_create(id=1)
+
+    return {
+        "status": status.status,
+        "last_run": status.last_run,
+        "next_run": status.next_run,
+        "interval": status.interval,
+    }

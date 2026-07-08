@@ -27,6 +27,18 @@ class MonitorLog(models.Model):
 
 
 class Notification(models.Model):
+    INFO = 'INFO'
+    SUCCESS = 'SUCCESS'
+    WARNING = 'WARNING'
+    ERROR = 'ERROR'
+
+    TYPE_CHOICES = [
+        (INFO, 'Info'),
+        (SUCCESS, 'Success'),
+        (WARNING, 'Warning'),
+        (ERROR, 'Error'),
+    ]
+
     website = models.ForeignKey(
         Website,
         on_delete=models.CASCADE,
@@ -34,7 +46,11 @@ class Notification(models.Model):
         blank=True
     )
     message = models.CharField(max_length=255)
-    type = models.CharField(max_length=20, default='INFO')
+    type = models.CharField(
+        max_length=20,
+        choices=TYPE_CHOICES,
+        default=INFO
+    )
     is_read = models.BooleanField(default=False)
     created_at = models.DateTimeField(auto_now_add=True)
 
@@ -43,3 +59,11 @@ class Notification(models.Model):
 
     def __str__(self):
         return self.message
+class SchedulerStatus(models.Model):
+    status = models.CharField(max_length=20, default="Stopped")
+    last_run = models.DateTimeField(null=True, blank=True)
+    next_run = models.DateTimeField(null=True, blank=True)
+    interval = models.CharField(max_length=50, default="Every 5 Hours")
+
+    def __str__(self):
+        return self.status

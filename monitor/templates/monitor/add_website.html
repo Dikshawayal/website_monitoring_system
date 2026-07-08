@@ -15,12 +15,12 @@
                     {% csrf_token %}
 
                     <div class="mb-3">
-                        <label class="form-label">Website Name</label>
+                        <label class="form-label">Website Name <span style="color:#EF4444;">*</span></label>
                         {{ form.name }}
                     </div>
 
                     <div class="mb-3">
-                        <label class="form-label">Website URL</label>
+                        <label class="form-label">Website URL <span style="color:#EF4444;">*</span></label>
                         {{ form.url }}
                     </div>
 

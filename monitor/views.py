@@ -1,11 +1,18 @@
 from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth.views import LoginView
 from django.contrib import messages
 from django.utils import timezone
 from django.http import JsonResponse
+from django.db.models import Avg
 from .models import Website, MonitorLog, Notification
-from .forms import WebsiteForm
-from .checker import check_website
+from .forms import WebsiteForm, CustomAuthenticationForm, CustomPasswordChangeForm
+from .checker import check_website, notify_check_result, create_notification
+from .schedular import get_scheduler_info
+from .models import SchedulerStatus
+class CustomLoginView(LoginView):
+    authentication_form = CustomAuthenticationForm
+    template_name = 'registration/login.html'
 
 
 # ======================
@@ -20,13 +27,26 @@ def dashboard(request):
 
     inactive = Website.objects.filter(status='DOWN').count()
 
+    avg_result = Website.objects.filter(
+        response_time__isnull=False
+    ).aggregate(avg=Avg('response_time'))
+
+    avg_response = round(avg_result['avg'], 2) if avg_result['avg'] else 0
+
     recent_websites = Website.objects.order_by('-last_checked')[:5]
+
+    # Get scheduler information
+    scheduler = SchedulerStatus.objects.first()
 
     context = {
         'total': total,
         'active': active,
         'inactive': inactive,
+        'avg_response': avg_response,
         'recent_websites': recent_websites,
+
+        # Scheduler Information
+        'scheduler': scheduler,
     }
 
     return render(
@@ -34,7 +54,6 @@ def dashboard(request):
         'monitor/dashboard.html',
         context
     )
-
 
 # ======================
 # Website List
@@ -61,7 +80,29 @@ def website_list(request):
 
 
 # ======================
-# Check Websites
+# Check Single Website
+# ======================
+@login_required
+def check_single_website(request, pk):
+
+    website = get_object_or_404(Website, pk=pk)
+
+    result = check_website(website.url)
+
+    prev_status = website.status
+
+    notify_check_result(website, result, prev_status)
+
+    messages.success(
+        request,
+        f"{website.name} checked — {result['status']} "
+        f"({result['response_time']}ms)"
+    )
+    return redirect('website_list')
+
+
+# ======================
+# Check All Websites
 # ======================
 @login_required
 def monitor_websites(request):
@@ -73,24 +114,8 @@ def monitor_websites(request):
         result = check_website(website.url)
 
         prev_status = website.status
-        website.status = result['status']
-        website.response_time = result['response_time']
-        website.last_checked = timezone.now()
-        website.save()
 
-        MonitorLog.objects.create(
-            website=website,
-            status=result['status'],
-            status_code=result['status_code'],
-            response_time=result['response_time']
-        )
-
-        if result['status'] == 'DOWN' and prev_status != 'DOWN':
-            Notification.objects.create(
-                website=website,
-                message=f"{website.name} is DOWN!",
-                type='DOWN'
-            )
+        notify_check_result(website, result, prev_status)
 
     messages.success(request, 'Website check completed!')
     return redirect('website_list')
@@ -153,7 +178,7 @@ def edit_website(request, pk):
     return render(
         request,
         'monitor/edit_website.html',
-        {'form': form}
+        {'form': form, 'website': website}
     )
 
 
@@ -267,3 +292,41 @@ def notification_count(request):
     ).count()
 
     return JsonResponse({'count': count})
+
+@login_required
+def account(request):
+
+    if request.method == "POST":
+        user = request.user
+        user.first_name = request.POST.get("first_name")
+        user.last_name = request.POST.get("last_name")
+        user.email = request.POST.get("email")
+        user.save()
+
+        messages.success(request, "Profile updated successfully.")
+        return redirect("account")
+
+    return render(request, "monitor/account.html")
+
+
+# ======================
+# Change Password
+# ======================
+@login_required
+def change_password(request):
+
+    if request.method == "POST":
+        form = CustomPasswordChangeForm(user=request.user, data=request.POST)
+        if form.is_valid():
+            form.save()
+            messages.success(request, "Password changed successfully!")
+            return redirect("change_password_done")
+    else:
+        form = CustomPasswordChangeForm(user=request.user)
+
+    return render(request, "monitor/password_change.html", {"form": form})
+
+
+@login_required
+def change_password_done(request):
+    return render(request, "monitor/password_change_done.html")

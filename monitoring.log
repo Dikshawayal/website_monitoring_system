@@ -1,0 +1,2160 @@
+INFO 2026-06-26 10:39:51,154 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:39:51,155 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:39:52,776 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1411.1ms
+INFO 2026-06-26 10:39:54,649 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1843.61ms
+INFO 2026-06-26 10:39:55,593 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 919.54ms
+INFO 2026-06-26 10:39:58,579 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2960.37ms
+INFO 2026-06-26 10:39:58,579 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 10:40:16,936 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:40:16,937 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:40:37,342 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:40:37,342 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:41:50,246 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:41:50,247 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:41:51,337 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:41:51,337 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:46:50,255 schedular Scheduled check triggered
+INFO 2026-06-26 10:46:51,344 schedular Scheduled check triggered
+INFO 2026-06-26 10:46:51,382 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1089.92ms
+INFO 2026-06-26 10:46:52,509 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1143.32ms
+INFO 2026-06-26 10:46:52,877 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1476.69ms
+INFO 2026-06-26 10:46:53,501 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 603.32ms
+INFO 2026-06-26 10:46:53,534 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1008.54ms
+INFO 2026-06-26 10:46:54,285 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 699.93ms
+INFO 2026-06-26 10:46:55,940 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2417.94ms
+INFO 2026-06-26 10:46:55,940 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 10:46:56,268 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1961.42ms
+INFO 2026-06-26 10:46:56,269 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 10:48:49,335 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:48:49,336 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:51:02,185 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:51:02,185 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:51:06,228 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:51:06,228 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:51:17,863 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:51:17,863 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:51:50,254 schedular Scheduled check triggered
+INFO 2026-06-26 10:51:51,292 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1007.52ms
+INFO 2026-06-26 10:51:52,858 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1529.22ms
+INFO 2026-06-26 10:51:53,750 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 874.06ms
+INFO 2026-06-26 10:51:55,432 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1659.11ms
+INFO 2026-06-26 10:51:55,432 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 10:53:18,493 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:53:18,494 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 10:56:06,231 schedular Scheduled check triggered
+INFO 2026-06-26 10:56:07,320 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1071.18ms
+INFO 2026-06-26 10:56:08,825 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1472.81ms
+INFO 2026-06-26 10:56:09,375 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 527.75ms
+INFO 2026-06-26 10:56:11,183 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1774.65ms
+INFO 2026-06-26 10:56:11,183 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 10:56:50,252 schedular Scheduled check triggered
+INFO 2026-06-26 10:56:51,255 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 978.22ms
+INFO 2026-06-26 10:56:52,776 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1472.97ms
+INFO 2026-06-26 10:56:53,379 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 582.78ms
+INFO 2026-06-26 10:56:55,163 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1767.51ms
+INFO 2026-06-26 10:56:55,163 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 10:58:26,286 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 10:58:26,287 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:01:06,244 schedular Scheduled check triggered
+INFO 2026-06-26 11:01:07,256 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 988.98ms
+INFO 2026-06-26 11:01:08,899 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1610.1ms
+INFO 2026-06-26 11:01:09,617 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 702.58ms
+INFO 2026-06-26 11:01:11,574 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1933.57ms
+INFO 2026-06-26 11:01:11,575 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:01:50,252 schedular Scheduled check triggered
+INFO 2026-06-26 11:01:51,127 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 847.19ms
+INFO 2026-06-26 11:01:52,470 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1321.07ms
+INFO 2026-06-26 11:01:52,957 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 464.48ms
+INFO 2026-06-26 11:01:54,434 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1454.23ms
+INFO 2026-06-26 11:01:54,434 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:04:16,195 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:04:16,195 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:04:27,529 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:04:27,531 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:04:33,470 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:04:33,470 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:04:43,351 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:04:43,351 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:04:50,715 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:04:50,718 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:05:36,089 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:05:36,089 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:05:48,758 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:05:48,758 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:06:01,013 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:06:01,013 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-26 11:06:02,708 checker High response time for Goggle: 1490.4ms
+INFO 2026-06-26 11:06:02,709 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1490.4ms
+WARNING 2026-06-26 11:06:04,349 checker High response time for Instagram: 1604.03ms
+INFO 2026-06-26 11:06:04,350 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1604.03ms
+WARNING 2026-06-26 11:06:05,428 checker High response time for CloudRegex: 1044.21ms
+INFO 2026-06-26 11:06:05,428 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1044.21ms
+WARNING 2026-06-26 11:06:07,696 checker High response time for Whatsapp: 2232.9ms
+INFO 2026-06-26 11:06:07,697 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2232.9ms
+INFO 2026-06-26 11:06:07,697 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:06:20,740 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:06:20,740 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:06:33,259 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:06:33,259 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:06:46,414 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:06:46,415 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:06:50,254 schedular Scheduled check triggered
+INFO 2026-06-26 11:06:52,208 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1918.95ms
+INFO 2026-06-26 11:06:54,131 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1889.18ms
+INFO 2026-06-26 11:06:56,252 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2089.45ms
+INFO 2026-06-26 11:07:01,050 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 4759.59ms
+INFO 2026-06-26 11:07:01,051 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:07:01,776 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:07:01,776 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:07:13,667 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:07:13,668 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:09:26,746 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:09:26,747 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:09:50,725 schedular Scheduled check triggered
+INFO 2026-06-26 11:09:51,670 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 916.13ms
+WARNING 2026-06-26 11:09:52,931 checker High response time for Instagram: 1232.82ms
+INFO 2026-06-26 11:09:52,932 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1232.82ms
+INFO 2026-06-26 11:09:53,594 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 629.5ms
+WARNING 2026-06-26 11:09:55,312 checker High response time for Whatsapp: 1678.38ms
+INFO 2026-06-26 11:09:55,312 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1678.38ms
+INFO 2026-06-26 11:09:55,312 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:11:50,258 schedular Scheduled check triggered
+INFO 2026-06-26 11:11:51,233 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 948.48ms
+INFO 2026-06-26 11:11:52,545 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1288.59ms
+INFO 2026-06-26 11:11:53,088 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 514.14ms
+INFO 2026-06-26 11:11:54,910 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1789.46ms
+INFO 2026-06-26 11:11:54,910 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:14:50,725 schedular Scheduled check triggered
+INFO 2026-06-26 11:14:51,739 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 984.36ms
+WARNING 2026-06-26 11:14:53,323 checker High response time for Instagram: 1556.08ms
+INFO 2026-06-26 11:14:53,323 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1556.08ms
+INFO 2026-06-26 11:14:54,190 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 825.06ms
+WARNING 2026-06-26 11:14:55,994 checker High response time for Whatsapp: 1773.34ms
+INFO 2026-06-26 11:14:55,994 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1773.34ms
+INFO 2026-06-26 11:14:55,994 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:16:50,255 schedular Scheduled check triggered
+INFO 2026-06-26 11:16:51,202 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 915.02ms
+INFO 2026-06-26 11:16:53,128 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1899.07ms
+INFO 2026-06-26 11:16:53,630 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 475.72ms
+INFO 2026-06-26 11:16:56,273 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2605.56ms
+INFO 2026-06-26 11:16:56,273 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:19:50,729 schedular Scheduled check triggered
+WARNING 2026-06-26 11:19:52,107 checker High response time for Goggle: 1345.05ms
+INFO 2026-06-26 11:19:52,107 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1345.05ms
+WARNING 2026-06-26 11:19:53,282 checker High response time for Instagram: 1108.35ms
+INFO 2026-06-26 11:19:53,283 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1108.35ms
+INFO 2026-06-26 11:19:53,986 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 676.32ms
+WARNING 2026-06-26 11:19:56,398 checker High response time for Whatsapp: 2380.81ms
+INFO 2026-06-26 11:19:56,398 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2380.81ms
+INFO 2026-06-26 11:19:56,399 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+WARNING 2026-06-26 11:20:04,078 checker High response time for Chatgpt: 3299.94ms
+INFO 2026-06-26 11:21:50,253 schedular Scheduled check triggered
+INFO 2026-06-26 11:21:51,264 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 985.84ms
+INFO 2026-06-26 11:21:53,798 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2508.08ms
+INFO 2026-06-26 11:21:54,285 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 466.65ms
+INFO 2026-06-26 11:21:56,570 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2265.59ms
+INFO 2026-06-26 11:21:59,273 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2680.32ms
+INFO 2026-06-26 11:21:59,273 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+WARNING 2026-06-26 11:22:20,245 checker High response time for Chatgpt: 1669.68ms
+INFO 2026-06-26 11:24:50,716 schedular Scheduled check triggered
+WARNING 2026-06-26 11:24:52,172 checker High response time for Goggle: 1430.29ms
+INFO 2026-06-26 11:24:52,172 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1430.29ms
+WARNING 2026-06-26 11:24:54,312 checker High response time for Instagram: 2084.87ms
+INFO 2026-06-26 11:24:54,312 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2084.87ms
+INFO 2026-06-26 11:24:55,153 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 801.52ms
+WARNING 2026-06-26 11:24:57,066 checker High response time for Whatsapp: 1880.18ms
+INFO 2026-06-26 11:24:57,066 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1880.18ms
+WARNING 2026-06-26 11:24:57,598 checker Status change UP->DOWN for Chatgpt
+INFO 2026-06-26 11:24:57,599 checker Checked Chatgpt (https://www.abc.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-26 11:24:57,599 checker Check complete - Total: 5, UP: 4, DOWN: 1, Errors: 0
+INFO 2026-06-26 11:26:50,255 schedular Scheduled check triggered
+INFO 2026-06-26 11:26:52,004 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1689.24ms
+INFO 2026-06-26 11:26:53,513 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1477.56ms
+INFO 2026-06-26 11:26:55,020 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1487.41ms
+INFO 2026-06-26 11:26:56,605 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1558.36ms
+INFO 2026-06-26 11:26:57,180 checker Checked Chatgpt (https://www.abc.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-26 11:26:57,180 checker Check complete - Total: 5, UP: 4, DOWN: 1, Errors: 0
+INFO 2026-06-26 11:29:50,727 schedular Scheduled check triggered
+WARNING 2026-06-26 11:29:52,270 checker High response time for Goggle: 1367.12ms
+INFO 2026-06-26 11:29:52,271 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1367.12ms
+WARNING 2026-06-26 11:29:53,691 checker High response time for Instagram: 1390.87ms
+INFO 2026-06-26 11:29:53,694 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1390.87ms
+INFO 2026-06-26 11:29:54,508 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 787.06ms
+WARNING 2026-06-26 11:29:56,927 checker High response time for Whatsapp: 2376.94ms
+INFO 2026-06-26 11:29:56,927 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2376.94ms
+INFO 2026-06-26 11:29:58,917 checker Status change DOWN->UP for Chatgpt
+INFO 2026-06-26 11:29:58,918 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1955.52ms
+INFO 2026-06-26 11:29:58,918 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:30:21,867 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:30:21,868 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-26 11:30:30,452 checker Status change UP->DOWN for Chatgpt
+INFO 2026-06-26 11:31:50,252 schedular Scheduled check triggered
+INFO 2026-06-26 11:31:51,220 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 937.53ms
+INFO 2026-06-26 11:31:53,028 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1781.6ms
+INFO 2026-06-26 11:31:53,785 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 721.28ms
+INFO 2026-06-26 11:31:56,029 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2213.17ms
+INFO 2026-06-26 11:31:57,441 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1389.57ms
+INFO 2026-06-26 11:31:57,442 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:35:21,874 schedular Scheduled check triggered
+WARNING 2026-06-26 11:35:23,085 checker High response time for Goggle: 1132.95ms
+INFO 2026-06-26 11:35:23,085 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1132.95ms
+WARNING 2026-06-26 11:35:24,574 checker High response time for Instagram: 1457.58ms
+INFO 2026-06-26 11:35:24,574 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1457.58ms
+INFO 2026-06-26 11:35:25,150 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 530.42ms
+WARNING 2026-06-26 11:35:26,751 checker High response time for Whatsapp: 1571.74ms
+INFO 2026-06-26 11:35:26,751 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1571.74ms
+WARNING 2026-06-26 11:35:28,039 checker High response time for Chatgpt: 1256.33ms
+INFO 2026-06-26 11:35:28,040 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1256.33ms
+INFO 2026-06-26 11:35:28,041 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:36:48,999 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:36:49,000 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:36:50,257 schedular Scheduled check triggered
+INFO 2026-06-26 11:36:51,370 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1096.7ms
+INFO 2026-06-26 11:36:52,627 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1239.51ms
+INFO 2026-06-26 11:36:53,501 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 846.59ms
+INFO 2026-06-26 11:36:55,383 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:36:55,384 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:36:55,808 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2274.82ms
+INFO 2026-06-26 11:37:00,369 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 4537.16ms
+INFO 2026-06-26 11:37:00,369 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:37:31,221 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:37:31,222 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-26 11:38:28,383 checker High response time for Chatgpt: 3047.33ms
+INFO 2026-06-26 11:40:17,480 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:40:17,481 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-26 11:40:49,509 checker High response time for Instagram: 1251.36ms
+WARNING 2026-06-26 11:40:51,662 checker High response time for Whatsapp: 1536.28ms
+WARNING 2026-06-26 11:40:52,855 checker High response time for Chatgpt: 1164.07ms
+INFO 2026-06-26 11:41:50,253 schedular Scheduled check triggered
+INFO 2026-06-26 11:41:51,221 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 936.02ms
+INFO 2026-06-26 11:41:52,576 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1339.3ms
+INFO 2026-06-26 11:41:53,088 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 484.37ms
+INFO 2026-06-26 11:41:54,532 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1416.97ms
+WARNING 2026-06-26 11:41:55,104 checker Website Chatgpt (https://www.abc.com) is DOWN - notification created
+INFO 2026-06-26 11:41:55,104 checker Checked Chatgpt (https://www.abc.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-26 11:41:55,104 checker Check complete - Total: 5, UP: 4, DOWN: 1, Errors: 0
+INFO 2026-06-26 11:41:55,384 schedular Scheduled check triggered
+WARNING 2026-06-26 11:41:56,628 checker High response time for Goggle: 1211.66ms
+INFO 2026-06-26 11:41:56,629 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1211.66ms
+WARNING 2026-06-26 11:41:57,906 checker High response time for Instagram: 1247.43ms
+INFO 2026-06-26 11:41:57,907 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1247.43ms
+INFO 2026-06-26 11:41:58,514 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 577.0ms
+WARNING 2026-06-26 11:42:00,239 checker High response time for Whatsapp: 1691.71ms
+INFO 2026-06-26 11:42:00,240 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1691.71ms
+WARNING 2026-06-26 11:42:00,729 checker Chatgpt is still DOWN
+INFO 2026-06-26 11:42:00,730 checker Checked Chatgpt (https://www.abc.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-26 11:42:00,730 checker Check complete - Total: 5, UP: 4, DOWN: 1, Errors: 0
+INFO 2026-06-26 11:46:50,249 schedular Scheduled check triggered
+INFO 2026-06-26 11:46:51,096 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 824.85ms
+INFO 2026-06-26 11:46:54,396 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 3263.1ms
+INFO 2026-06-26 11:46:55,232 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 817.97ms
+INFO 2026-06-26 11:46:55,383 schedular Scheduled check triggered
+WARNING 2026-06-26 11:46:57,243 checker High response time for Goggle: 1826.66ms
+INFO 2026-06-26 11:46:57,244 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1826.66ms
+INFO 2026-06-26 11:46:57,577 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2325.78ms
+WARNING 2026-06-26 11:46:58,578 checker High response time for Instagram: 1309.33ms
+INFO 2026-06-26 11:46:58,578 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1309.33ms
+INFO 2026-06-26 11:46:59,410 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 796.92ms
+INFO 2026-06-26 11:46:59,972 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 2372.97ms
+INFO 2026-06-26 11:46:59,972 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+WARNING 2026-06-26 11:47:00,915 checker High response time for Whatsapp: 1445.49ms
+INFO 2026-06-26 11:47:00,916 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1445.49ms
+INFO 2026-06-26 11:47:02,366 checker Status change DOWN->UP for Chatgpt
+INFO 2026-06-26 11:47:02,366 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1417.79ms
+INFO 2026-06-26 11:47:02,366 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:47:11,804 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 11:47:11,805 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 11:51:50,252 schedular Scheduled check triggered
+INFO 2026-06-26 11:51:51,252 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 971.13ms
+INFO 2026-06-26 11:51:52,457 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1184.8ms
+INFO 2026-06-26 11:51:53,431 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 952.75ms
+INFO 2026-06-26 11:51:56,271 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2817.83ms
+INFO 2026-06-26 11:51:57,351 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1058.74ms
+INFO 2026-06-26 11:51:57,351 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:52:11,812 schedular Scheduled check triggered
+WARNING 2026-06-26 11:52:13,091 checker High response time for Goggle: 1230.2ms
+INFO 2026-06-26 11:52:13,091 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1230.2ms
+WARNING 2026-06-26 11:52:14,261 checker High response time for Instagram: 1140.09ms
+INFO 2026-06-26 11:52:14,262 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1140.09ms
+INFO 2026-06-26 11:52:14,991 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 700.19ms
+WARNING 2026-06-26 11:52:16,654 checker High response time for Whatsapp: 1621.98ms
+INFO 2026-06-26 11:52:16,654 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1621.98ms
+WARNING 2026-06-26 11:52:18,216 checker High response time for Chatgpt: 1529.68ms
+INFO 2026-06-26 11:52:18,217 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1529.68ms
+INFO 2026-06-26 11:52:18,217 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 11:56:50,261 schedular Scheduled check triggered
+INFO 2026-06-26 11:56:51,308 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 1010.58ms
+INFO 2026-06-26 11:56:52,446 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1105.42ms
+INFO 2026-06-26 11:56:52,966 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 499.36ms
+INFO 2026-06-26 11:56:55,081 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2091.98ms
+WARNING 2026-06-26 11:56:55,863 checker Website Chatgpt (https://www.abc.com) is DOWN - notification created
+INFO 2026-06-26 11:56:55,863 checker Checked Chatgpt (https://www.abc.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-26 11:56:55,864 checker Check complete - Total: 5, UP: 4, DOWN: 1, Errors: 0
+INFO 2026-06-26 11:57:11,810 schedular Scheduled check triggered
+INFO 2026-06-26 11:57:12,813 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 975.23ms
+WARNING 2026-06-26 11:57:13,992 checker High response time for Instagram: 1151.95ms
+INFO 2026-06-26 11:57:13,992 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1151.95ms
+INFO 2026-06-26 11:57:14,545 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 528.76ms
+WARNING 2026-06-26 11:57:16,400 checker High response time for Whatsapp: 1818.26ms
+INFO 2026-06-26 11:57:16,401 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1818.26ms
+INFO 2026-06-26 11:57:17,726 checker Status change DOWN->UP for Chatgpt
+INFO 2026-06-26 11:57:17,726 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1293.93ms
+INFO 2026-06-26 11:57:17,726 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 12:02:12,370 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:02:12,371 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 12:02:13,540 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:02:13,540 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 12:03:58,999 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:03:58,999 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 12:04:05,022 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:04:05,022 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 12:04:11,110 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:04:11,111 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 12:04:23,325 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:04:23,325 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-26 12:06:28,901 checker High response time for Instagram: 1473.08ms
+WARNING 2026-06-26 12:06:31,411 checker High response time for Whatsapp: 1798.41ms
+WARNING 2026-06-26 12:06:32,746 checker High response time for Chatgpt: 1303.39ms
+INFO 2026-06-26 12:07:12,382 schedular Scheduled check triggered
+INFO 2026-06-26 12:07:13,377 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 951.18ms
+WARNING 2026-06-26 12:07:14,465 checker High response time for Instagram: 1049.01ms
+INFO 2026-06-26 12:07:14,465 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1049.01ms
+INFO 2026-06-26 12:07:14,963 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 466.54ms
+WARNING 2026-06-26 12:07:16,922 checker High response time for Whatsapp: 1914.39ms
+INFO 2026-06-26 12:07:16,923 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1914.39ms
+WARNING 2026-06-26 12:07:18,030 checker High response time for Chatgpt: 1081.07ms
+INFO 2026-06-26 12:07:18,031 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 1081.07ms
+INFO 2026-06-26 12:07:18,031 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 12:09:11,119 schedular Scheduled check triggered
+WARNING 2026-06-26 12:09:13,553 checker High response time for Goggle: 2296.79ms
+INFO 2026-06-26 12:09:13,554 checker Checked Goggle (https://www.google.com) - Status: UP, Response: 2296.79ms
+WARNING 2026-06-26 12:09:15,555 checker High response time for Instagram: 1959.55ms
+INFO 2026-06-26 12:09:15,555 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1959.55ms
+WARNING 2026-06-26 12:09:18,844 checker High response time for CloudRegex: 3163.83ms
+INFO 2026-06-26 12:09:18,845 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 3163.83ms
+WARNING 2026-06-26 12:09:22,594 checker High response time for Whatsapp: 3709.32ms
+INFO 2026-06-26 12:09:22,595 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3709.32ms
+WARNING 2026-06-26 12:09:33,164 checker High response time for Chatgpt: 10450.6ms
+INFO 2026-06-26 12:09:33,166 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 10450.6ms
+INFO 2026-06-26 12:09:33,168 checker Check complete - Total: 5, UP: 5, DOWN: 0, Errors: 0
+INFO 2026-06-26 12:12:22,857 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:12:22,859 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-26 12:12:25,777 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-26 12:12:25,778 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-26 12:14:19,450 checker High response time for Goggle: 2035.74ms
+WARNING 2026-06-26 12:14:21,878 checker High response time for Instagram: 2319.57ms
+WARNING 2026-06-26 12:14:23,355 checker High response time for CloudRegex: 1364.24ms
+WARNING 2026-06-26 12:14:28,020 checker High response time for Whatsapp: 4514.49ms
+WARNING 2026-06-26 12:14:31,806 checker High response time for Chatgpt: 3714.8ms
+WARNING 2026-06-26 12:15:50,153 checker High response time for Goggle: 1908.28ms
+INFO 2026-06-26 12:17:22,865 schedular Scheduled check triggered
+INFO 2026-06-26 12:17:25,790 schedular Scheduled check triggered
+WARNING 2026-06-26 12:17:26,029 checker High response time for Instagram: 3041.06ms
+INFO 2026-06-26 12:17:26,033 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 3041.06ms
+WARNING 2026-06-26 12:17:27,599 checker High response time for CloudRegex: 1501.97ms
+INFO 2026-06-26 12:17:27,600 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1501.97ms
+WARNING 2026-06-26 12:17:28,201 checker High response time for Instagram: 2307.5ms
+INFO 2026-06-26 12:17:28,202 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2307.5ms
+WARNING 2026-06-26 12:17:29,932 checker High response time for CloudRegex: 1687.27ms
+INFO 2026-06-26 12:17:29,932 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1687.27ms
+WARNING 2026-06-26 12:17:31,937 checker High response time for Whatsapp: 4276.42ms
+INFO 2026-06-26 12:17:31,938 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 4276.42ms
+WARNING 2026-06-26 12:17:34,488 checker High response time for Whatsapp: 4490.65ms
+INFO 2026-06-26 12:17:34,489 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 4490.65ms
+WARNING 2026-06-26 12:17:36,000 checker Status change UP->DOWN for Chatgpt
+INFO 2026-06-26 12:17:36,001 checker Checked Chatgpt (https://www.abc.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-26 12:17:36,002 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-26 12:17:36,048 checker High response time for Chatgpt: 4031.1ms
+INFO 2026-06-26 12:17:36,048 checker Checked Chatgpt (https://www.abc.com) - Status: UP, Response: 4031.1ms
+INFO 2026-06-26 12:17:36,049 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+WARNING 2026-06-26 12:21:40,617 checker High response time for Instagram: 1911.0ms
+WARNING 2026-06-26 12:21:42,549 checker High response time for CloudRegex: 1821.54ms
+WARNING 2026-06-26 12:21:46,383 checker High response time for Whatsapp: 3726.18ms
+WARNING 2026-06-26 12:21:55,731 checker High response time for Chatgpt: 9207.43ms
+INFO 2026-06-26 12:22:22,857 schedular Scheduled check triggered
+WARNING 2026-06-26 12:22:25,073 checker High response time for Instagram: 2143.32ms
+INFO 2026-06-26 12:22:25,074 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2143.32ms
+INFO 2026-06-26 12:22:25,782 schedular Scheduled check triggered
+WARNING 2026-06-26 12:22:26,479 checker High response time for CloudRegex: 1367.31ms
+INFO 2026-06-26 12:22:26,480 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1367.31ms
+WARNING 2026-06-26 12:22:27,983 checker High response time for Instagram: 2131.99ms
+INFO 2026-06-26 12:22:27,984 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2131.99ms
+WARNING 2026-06-26 12:22:29,671 checker High response time for CloudRegex: 1619.46ms
+INFO 2026-06-26 12:22:29,673 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1619.46ms
+WARNING 2026-06-26 12:22:30,079 checker High response time for Whatsapp: 3548.28ms
+INFO 2026-06-26 12:22:30,079 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3548.28ms
+WARNING 2026-06-26 12:22:32,761 checker High response time for Whatsapp: 3045.41ms
+INFO 2026-06-26 12:22:32,762 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3045.41ms
+WARNING 2026-06-26 12:22:34,657 checker High response time for Chatgpt: 4530.92ms
+INFO 2026-06-26 12:22:34,657 checker Checked Chatgpt (https://www.pqr.com) - Status: UP, Response: 4530.92ms
+INFO 2026-06-26 12:22:34,658 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+WARNING 2026-06-26 12:22:36,390 checker High response time for Chatgpt: 3555.76ms
+INFO 2026-06-26 12:22:36,391 checker Checked Chatgpt (https://www.pqr.com) - Status: UP, Response: 3555.76ms
+INFO 2026-06-26 12:22:36,392 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 12:27:22,862 schedular Scheduled check triggered
+WARNING 2026-06-26 12:27:25,093 checker High response time for Instagram: 2151.85ms
+INFO 2026-06-26 12:27:25,094 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2151.85ms
+INFO 2026-06-26 12:27:25,780 schedular Scheduled check triggered
+WARNING 2026-06-26 12:27:26,335 checker High response time for CloudRegex: 1204.55ms
+INFO 2026-06-26 12:27:26,340 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1204.55ms
+WARNING 2026-06-26 12:27:28,027 checker High response time for Instagram: 2153.26ms
+INFO 2026-06-26 12:27:28,030 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2153.26ms
+WARNING 2026-06-26 12:27:29,197 checker High response time for CloudRegex: 1068.94ms
+INFO 2026-06-26 12:27:29,198 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1068.94ms
+WARNING 2026-06-26 12:27:29,671 checker High response time for Whatsapp: 3282.69ms
+INFO 2026-06-26 12:27:29,672 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3282.69ms
+WARNING 2026-06-26 12:27:32,546 checker High response time for Whatsapp: 3301.23ms
+INFO 2026-06-26 12:27:32,548 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3301.23ms
+WARNING 2026-06-26 12:27:39,522 checker High response time for Chatgpt: 6921.82ms
+INFO 2026-06-26 12:27:39,523 checker Checked Chatgpt (https://www.pqr.com) - Status: UP, Response: 6921.82ms
+INFO 2026-06-26 12:27:39,524 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+WARNING 2026-06-26 12:27:39,607 checker High response time for Chatgpt: 9890.36ms
+INFO 2026-06-26 12:27:39,612 checker Checked Chatgpt (https://www.pqr.com) - Status: UP, Response: 9890.36ms
+INFO 2026-06-26 12:27:39,613 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-06-26 12:32:22,855 schedular Scheduled check triggered
+WARNING 2026-06-26 12:32:24,835 checker High response time for Instagram: 1904.38ms
+INFO 2026-06-26 12:32:24,836 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 1904.38ms
+INFO 2026-06-26 12:32:25,777 schedular Scheduled check triggered
+WARNING 2026-06-26 12:32:27,370 checker High response time for CloudRegex: 2366.56ms
+INFO 2026-06-26 12:32:27,460 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2366.56ms
+INFO 2026-06-29 10:19:11,304 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:19:11,313 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:19:36,686 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:19:36,689 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-29 10:22:23,432 checker High response time for Instagram: 5313.59ms
+WARNING 2026-06-29 10:22:35,717 checker High response time for CloudRegex: 12137.65ms
+WARNING 2026-06-29 10:22:56,191 checker High response time for Whatsapp: 20251.58ms
+WARNING 2026-06-29 10:23:00,312 checker Status change UP->DOWN for Chatgpt
+INFO 2026-06-29 10:24:11,292 schedular Scheduled check triggered
+WARNING 2026-06-29 10:24:22,431 checker High response time for Instagram: 9245.06ms
+INFO 2026-06-29 10:24:22,453 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 9245.06ms
+INFO 2026-06-29 10:24:36,690 schedular Scheduled check triggered
+WARNING 2026-06-29 10:24:44,105 checker High response time for CloudRegex: 10668.84ms
+INFO 2026-06-29 10:24:44,106 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 10668.84ms
+WARNING 2026-06-29 10:24:57,438 checker High response time for Instagram: 8815.37ms
+INFO 2026-06-29 10:24:57,442 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 8815.37ms
+WARNING 2026-06-29 10:25:06,426 checker High response time for Whatsapp: 22088.58ms
+INFO 2026-06-29 10:25:06,431 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 22088.58ms
+WARNING 2026-06-29 10:25:10,701 checker High response time for CloudRegex: 11605.99ms
+INFO 2026-06-29 10:25:10,708 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 11605.99ms
+WARNING 2026-06-29 10:25:10,929 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:25:10,937 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:25:10,951 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-29 10:25:25,777 checker High response time for Whatsapp: 10570.37ms
+INFO 2026-06-29 10:25:25,782 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 10570.37ms
+WARNING 2026-06-29 10:25:29,791 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:25:29,798 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:25:29,800 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:29:11,275 schedular Scheduled check triggered
+WARNING 2026-06-29 10:29:15,471 checker High response time for Instagram: 4106.05ms
+INFO 2026-06-29 10:29:15,473 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 4106.05ms
+WARNING 2026-06-29 10:29:18,502 checker High response time for CloudRegex: 2963.36ms
+INFO 2026-06-29 10:29:18,503 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2963.36ms
+WARNING 2026-06-29 10:29:24,964 checker High response time for Whatsapp: 6336.35ms
+INFO 2026-06-29 10:29:24,968 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 6336.35ms
+WARNING 2026-06-29 10:29:30,238 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:29:30,239 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:29:30,240 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:29:36,678 schedular Scheduled check triggered
+WARNING 2026-06-29 10:29:39,823 checker High response time for Instagram: 3081.31ms
+INFO 2026-06-29 10:29:39,824 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 3081.31ms
+WARNING 2026-06-29 10:29:42,647 checker High response time for CloudRegex: 2766.75ms
+INFO 2026-06-29 10:29:42,648 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2766.75ms
+WARNING 2026-06-29 10:29:48,999 checker High response time for Whatsapp: 6288.55ms
+INFO 2026-06-29 10:29:49,001 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 6288.55ms
+WARNING 2026-06-29 10:29:52,931 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:29:52,932 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:29:52,933 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:34:11,260 schedular Scheduled check triggered
+WARNING 2026-06-29 10:34:15,426 checker High response time for Instagram: 4098.78ms
+INFO 2026-06-29 10:34:15,427 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 4098.78ms
+WARNING 2026-06-29 10:34:20,044 checker High response time for CloudRegex: 4508.16ms
+INFO 2026-06-29 10:34:20,046 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 4508.16ms
+WARNING 2026-06-29 10:34:30,729 checker High response time for Whatsapp: 10540.39ms
+INFO 2026-06-29 10:34:30,731 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 10540.39ms
+WARNING 2026-06-29 10:34:36,043 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:34:36,044 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:34:36,045 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:34:36,685 schedular Scheduled check triggered
+WARNING 2026-06-29 10:34:44,082 checker High response time for Instagram: 7296.04ms
+INFO 2026-06-29 10:34:44,085 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 7296.04ms
+WARNING 2026-06-29 10:34:50,923 checker High response time for CloudRegex: 6728.84ms
+INFO 2026-06-29 10:34:50,926 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 6728.84ms
+WARNING 2026-06-29 10:35:04,030 checker High response time for Whatsapp: 12901.6ms
+INFO 2026-06-29 10:35:04,031 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 12901.6ms
+WARNING 2026-06-29 10:35:09,344 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:35:09,349 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:35:09,351 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:39:11,256 schedular Scheduled check triggered
+WARNING 2026-06-29 10:39:13,689 checker High response time for Instagram: 2356.02ms
+INFO 2026-06-29 10:39:13,689 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2356.02ms
+WARNING 2026-06-29 10:39:14,936 checker High response time for CloudRegex: 1207.72ms
+INFO 2026-06-29 10:39:14,938 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1207.72ms
+WARNING 2026-06-29 10:39:18,630 checker High response time for Whatsapp: 3552.04ms
+INFO 2026-06-29 10:39:18,639 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3552.04ms
+WARNING 2026-06-29 10:39:22,503 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:39:22,506 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:39:22,508 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:39:36,681 schedular Scheduled check triggered
+WARNING 2026-06-29 10:39:38,797 checker High response time for Instagram: 2019.48ms
+INFO 2026-06-29 10:39:38,799 checker Checked Instagram (https://www.instagram.com) - Status: UP, Response: 2019.48ms
+WARNING 2026-06-29 10:39:40,589 checker High response time for CloudRegex: 1749.03ms
+INFO 2026-06-29 10:39:40,590 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1749.03ms
+WARNING 2026-06-29 10:39:44,063 checker High response time for Whatsapp: 3389.66ms
+INFO 2026-06-29 10:39:44,064 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3389.66ms
+WARNING 2026-06-29 10:39:49,393 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:39:49,394 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:39:49,396 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:44:11,263 schedular Scheduled check triggered
+WARNING 2026-06-29 10:44:12,770 checker High response time for CloudRegex: 1407.38ms
+INFO 2026-06-29 10:44:12,772 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1407.38ms
+WARNING 2026-06-29 10:44:16,712 checker High response time for Whatsapp: 3841.31ms
+INFO 2026-06-29 10:44:16,713 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3841.31ms
+WARNING 2026-06-29 10:44:20,602 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:44:20,605 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:44:20,610 checker Check complete - Total: 3, UP: 2, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:44:36,677 schedular Scheduled check triggered
+WARNING 2026-06-29 10:44:38,075 checker High response time for CloudRegex: 1318.99ms
+INFO 2026-06-29 10:44:38,076 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1318.99ms
+WARNING 2026-06-29 10:44:41,225 checker High response time for Whatsapp: 3015.06ms
+INFO 2026-06-29 10:44:41,228 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3015.06ms
+WARNING 2026-06-29 10:44:46,489 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:44:46,489 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:44:46,489 checker Check complete - Total: 3, UP: 2, DOWN: 1, Errors: 0
+WARNING 2026-06-29 10:46:48,683 checker High response time for CloudRegex: 1558.12ms
+WARNING 2026-06-29 10:46:54,258 checker High response time for CloudRegex: 1129.93ms
+WARNING 2026-06-29 10:47:04,033 checker High response time for CloudRegex: 1171.28ms
+INFO 2026-06-29 10:49:11,255 schedular Scheduled check triggered
+WARNING 2026-06-29 10:49:13,185 checker High response time for CloudRegex: 1882.1ms
+INFO 2026-06-29 10:49:13,185 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1882.1ms
+WARNING 2026-06-29 10:49:16,861 checker High response time for Whatsapp: 3585.68ms
+INFO 2026-06-29 10:49:16,862 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3585.68ms
+WARNING 2026-06-29 10:49:22,336 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:49:22,337 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:49:22,337 checker Check complete - Total: 3, UP: 2, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:49:36,672 schedular Scheduled check triggered
+WARNING 2026-06-29 10:49:38,566 checker High response time for CloudRegex: 1770.35ms
+INFO 2026-06-29 10:49:38,568 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1770.35ms
+WARNING 2026-06-29 10:49:42,693 checker High response time for Whatsapp: 3997.1ms
+INFO 2026-06-29 10:49:42,703 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3997.1ms
+WARNING 2026-06-29 10:49:47,524 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:49:47,533 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:49:47,534 checker Check complete - Total: 3, UP: 2, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:50:31,021 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:50:31,022 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:52:16,866 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:52:16,867 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:53:34,250 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:53:34,250 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:53:36,313 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:53:36,314 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:54:53,645 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:54:53,646 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:56:01,455 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:56:01,456 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:57:13,677 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:57:13,678 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:58:00,960 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:58:00,961 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 10:58:34,256 schedular Scheduled check triggered
+WARNING 2026-06-29 10:58:35,714 checker High response time for CloudRegex: 1378.11ms
+INFO 2026-06-29 10:58:35,715 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1378.11ms
+WARNING 2026-06-29 10:58:38,871 checker High response time for Whatsapp: 3090.46ms
+INFO 2026-06-29 10:58:38,873 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3090.46ms
+WARNING 2026-06-29 10:58:42,623 checker Chatgpt is still DOWN
+INFO 2026-06-29 10:58:42,624 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 10:58:42,626 checker Check complete - Total: 3, UP: 2, DOWN: 1, Errors: 0
+INFO 2026-06-29 10:59:55,838 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 10:59:55,839 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:00:14,108 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:00:14,108 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:03:34,259 schedular Scheduled check triggered
+WARNING 2026-06-29 11:03:35,966 checker High response time for CloudRegex: 1675.95ms
+INFO 2026-06-29 11:03:35,966 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1675.95ms
+WARNING 2026-06-29 11:03:39,604 checker High response time for Whatsapp: 3603.52ms
+INFO 2026-06-29 11:03:39,604 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3603.52ms
+WARNING 2026-06-29 11:03:44,875 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:03:44,877 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-29 11:03:44,878 checker Check complete - Total: 3, UP: 2, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:05:14,118 schedular Scheduled check triggered
+WARNING 2026-06-29 11:05:17,131 checker High response time for CloudRegex: 2949.17ms
+INFO 2026-06-29 11:05:17,133 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2949.17ms
+WARNING 2026-06-29 11:05:23,384 checker High response time for Whatsapp: 6031.15ms
+INFO 2026-06-29 11:05:23,392 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 6031.15ms
+WARNING 2026-06-29 11:05:27,216 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:05:27,218 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:05:32,703 checker High response time for Instagram: 5448.19ms
+INFO 2026-06-29 11:05:32,703 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 5448.19ms
+INFO 2026-06-29 11:05:32,703 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:08:34,259 schedular Scheduled check triggered
+INFO 2026-06-29 11:08:35,046 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 760.41ms
+WARNING 2026-06-29 11:08:37,401 checker High response time for Whatsapp: 2329.14ms
+INFO 2026-06-29 11:08:37,401 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2329.14ms
+WARNING 2026-06-29 11:08:41,028 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:08:41,029 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:08:43,149 checker High response time for Instagram: 2092.35ms
+INFO 2026-06-29 11:08:43,149 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2092.35ms
+INFO 2026-06-29 11:08:43,149 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:10:15,156 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:10:15,157 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:10:45,521 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:10:45,521 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:11:01,737 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:11:01,739 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:13:06,833 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:13:06,833 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:13:23,123 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:13:23,123 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:13:34,252 schedular Scheduled check triggered
+INFO 2026-06-29 11:13:34,830 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 551.16ms
+WARNING 2026-06-29 11:13:37,132 checker High response time for Whatsapp: 2277.04ms
+INFO 2026-06-29 11:13:37,132 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2277.04ms
+WARNING 2026-06-29 11:13:40,708 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:13:40,708 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:13:43,677 checker High response time for Instagram: 2938.12ms
+INFO 2026-06-29 11:13:43,677 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2938.12ms
+INFO 2026-06-29 11:13:43,678 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:17:32,685 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:17:32,685 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:18:34,255 schedular Scheduled check triggered
+WARNING 2026-06-29 11:18:35,454 checker High response time for CloudRegex: 1166.33ms
+INFO 2026-06-29 11:18:35,455 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1166.33ms
+WARNING 2026-06-29 11:18:38,620 checker High response time for Whatsapp: 3137.46ms
+INFO 2026-06-29 11:18:38,620 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3137.46ms
+WARNING 2026-06-29 11:18:42,266 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:18:42,267 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:18:44,956 checker High response time for Instagram: 2660.21ms
+INFO 2026-06-29 11:18:44,957 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2660.21ms
+INFO 2026-06-29 11:18:44,957 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:19:38,501 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:19:38,501 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:19:40,200 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:19:40,201 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:21:32,767 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:21:32,767 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:23:34,613 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:23:34,614 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:24:38,508 schedular Scheduled check triggered
+INFO 2026-06-29 11:24:39,287 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 744.21ms
+WARNING 2026-06-29 11:24:41,397 checker High response time for Whatsapp: 2082.66ms
+INFO 2026-06-29 11:24:41,398 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2082.66ms
+WARNING 2026-06-29 11:24:45,383 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:24:45,383 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:24:47,489 checker High response time for Instagram: 2076.83ms
+INFO 2026-06-29 11:24:47,490 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2076.83ms
+INFO 2026-06-29 11:24:47,490 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:25:09,574 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:25:09,574 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:28:26,236 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:28:26,237 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:29:38,502 schedular Scheduled check triggered
+INFO 2026-06-29 11:29:39,042 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 515.07ms
+WARNING 2026-06-29 11:29:40,604 checker High response time for Whatsapp: 1531.38ms
+INFO 2026-06-29 11:29:40,604 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1531.38ms
+WARNING 2026-06-29 11:29:44,226 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:29:44,227 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:29:46,775 checker High response time for Instagram: 2518.86ms
+INFO 2026-06-29 11:29:46,776 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2518.86ms
+INFO 2026-06-29 11:29:46,776 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:33:26,244 schedular Scheduled check triggered
+WARNING 2026-06-29 11:33:27,539 checker High response time for CloudRegex: 1249.86ms
+INFO 2026-06-29 11:33:27,540 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1249.86ms
+WARNING 2026-06-29 11:33:31,300 checker High response time for Whatsapp: 3707.54ms
+INFO 2026-06-29 11:33:31,303 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3707.54ms
+WARNING 2026-06-29 11:33:35,614 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:33:35,615 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:33:38,110 checker High response time for Instagram: 2463.14ms
+INFO 2026-06-29 11:33:38,158 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2463.14ms
+INFO 2026-06-29 11:33:38,161 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:33:45,145 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:33:45,147 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:34:38,512 schedular Scheduled check triggered
+INFO 2026-06-29 11:34:39,121 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 586.92ms
+WARNING 2026-06-29 11:34:40,581 checker High response time for Whatsapp: 1438.23ms
+INFO 2026-06-29 11:34:40,582 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1438.23ms
+WARNING 2026-06-29 11:34:45,279 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:34:45,281 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:34:48,444 checker High response time for Instagram: 3139.84ms
+INFO 2026-06-29 11:34:48,445 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3139.84ms
+INFO 2026-06-29 11:34:48,445 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 11:37:25,605 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:37:25,606 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:38:52,433 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:38:52,434 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:38:53,852 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 11:38:53,852 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 11:43:52,448 schedular Scheduled check triggered
+INFO 2026-06-29 11:43:53,183 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 699.27ms
+INFO 2026-06-29 11:43:53,865 schedular Scheduled check triggered
+INFO 2026-06-29 11:43:54,829 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 926.38ms
+WARNING 2026-06-29 11:43:55,507 checker High response time for Whatsapp: 2287.73ms
+INFO 2026-06-29 11:43:55,507 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2287.73ms
+WARNING 2026-06-29 11:43:57,207 checker High response time for Whatsapp: 2351.19ms
+INFO 2026-06-29 11:43:57,207 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2351.19ms
+WARNING 2026-06-29 11:43:59,120 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:43:59,120 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:44:00,634 checker Chatgpt is still DOWN
+INFO 2026-06-29 11:44:00,634 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 11:44:01,311 checker High response time for Instagram: 2164.99ms
+INFO 2026-06-29 11:44:01,312 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2164.99ms
+INFO 2026-06-29 11:44:01,312 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-29 11:44:03,017 checker High response time for Instagram: 2356.65ms
+INFO 2026-06-29 11:44:03,018 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2356.65ms
+INFO 2026-06-29 11:44:03,018 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-29 12:16:03,242 base Run time of job "Check all websites every 5 minutes (trigger: interval[0:05:00], next run at: 2026-06-29 12:18:52 IST)" was missed by 0:02:10.810240
+WARNING 2026-06-29 12:16:04,660 base Run time of job "Check all websites every 5 minutes (trigger: interval[0:05:00], next run at: 2026-06-29 12:18:53 IST)" was missed by 0:02:10.809475
+INFO 2026-06-29 12:18:52,434 schedular Scheduled check triggered
+INFO 2026-06-29 12:18:53,261 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 797.37ms
+INFO 2026-06-29 12:18:53,864 schedular Scheduled check triggered
+INFO 2026-06-29 12:18:54,829 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 935.17ms
+WARNING 2026-06-29 12:18:55,745 checker High response time for Whatsapp: 2339.74ms
+INFO 2026-06-29 12:18:55,754 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2339.74ms
+WARNING 2026-06-29 12:18:57,662 checker High response time for Whatsapp: 2801.56ms
+INFO 2026-06-29 12:18:57,662 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2801.56ms
+WARNING 2026-06-29 12:18:59,653 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:18:59,653 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:19:01,923 checker High response time for Instagram: 2231.88ms
+INFO 2026-06-29 12:19:01,923 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2231.88ms
+INFO 2026-06-29 12:19:01,924 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-29 12:19:02,697 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:19:02,697 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:19:05,660 checker High response time for Instagram: 2931.8ms
+INFO 2026-06-29 12:19:05,661 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2931.8ms
+INFO 2026-06-29 12:19:05,661 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:19:36,028 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:19:36,028 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:19:37,427 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:19:37,427 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:24:36,033 schedular Scheduled check triggered
+INFO 2026-06-29 12:24:36,694 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 625.79ms
+INFO 2026-06-29 12:24:37,441 schedular Scheduled check triggered
+INFO 2026-06-29 12:24:38,263 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 789.44ms
+WARNING 2026-06-29 12:24:38,609 checker High response time for Whatsapp: 1888.19ms
+INFO 2026-06-29 12:24:38,610 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1888.19ms
+WARNING 2026-06-29 12:24:40,877 checker High response time for Whatsapp: 2572.41ms
+INFO 2026-06-29 12:24:40,877 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2572.41ms
+WARNING 2026-06-29 12:24:43,854 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:24:43,854 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:24:45,913 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:24:45,914 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:24:46,282 checker High response time for Instagram: 2399.86ms
+INFO 2026-06-29 12:24:46,284 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2399.86ms
+INFO 2026-06-29 12:24:46,284 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-29 12:24:48,262 checker High response time for Instagram: 2316.26ms
+INFO 2026-06-29 12:24:48,263 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2316.26ms
+INFO 2026-06-29 12:24:48,263 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:28:10,425 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:28:10,425 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:28:43,153 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:28:43,154 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:29:18,239 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:29:18,239 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:29:36,032 schedular Scheduled check triggered
+INFO 2026-06-29 12:29:36,891 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 815.09ms
+WARNING 2026-06-29 12:29:39,076 checker High response time for Whatsapp: 2132.85ms
+INFO 2026-06-29 12:29:39,076 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2132.85ms
+WARNING 2026-06-29 12:29:42,954 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:29:42,954 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:29:45,527 checker High response time for Instagram: 2539.04ms
+INFO 2026-06-29 12:29:45,528 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2539.04ms
+INFO 2026-06-29 12:29:45,528 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:29:51,104 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:29:51,105 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:31:58,669 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:31:58,669 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:32:56,050 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:32:56,051 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:33:28,771 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:33:28,771 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:34:36,036 schedular Scheduled check triggered
+INFO 2026-06-29 12:34:36,598 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 529.12ms
+WARNING 2026-06-29 12:34:38,386 checker High response time for Whatsapp: 1756.54ms
+INFO 2026-06-29 12:34:38,386 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1756.54ms
+WARNING 2026-06-29 12:34:42,218 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:34:42,218 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:34:44,350 checker High response time for Instagram: 2104.14ms
+INFO 2026-06-29 12:34:44,350 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2104.14ms
+INFO 2026-06-29 12:34:44,351 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:38:28,774 schedular Scheduled check triggered
+INFO 2026-06-29 12:38:29,436 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 629.97ms
+WARNING 2026-06-29 12:38:31,228 checker High response time for Whatsapp: 1752.94ms
+INFO 2026-06-29 12:38:31,228 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1752.94ms
+WARNING 2026-06-29 12:38:35,186 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:38:35,186 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:38:37,397 checker High response time for Instagram: 2182.81ms
+INFO 2026-06-29 12:38:37,397 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2182.81ms
+INFO 2026-06-29 12:38:37,398 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:39:36,031 schedular Scheduled check triggered
+INFO 2026-06-29 12:39:36,542 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 481.15ms
+WARNING 2026-06-29 12:39:38,061 checker High response time for Whatsapp: 1483.61ms
+INFO 2026-06-29 12:39:38,062 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1483.61ms
+WARNING 2026-06-29 12:39:43,319 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:39:43,319 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:39:45,708 checker High response time for Instagram: 2343.23ms
+INFO 2026-06-29 12:39:45,708 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2343.23ms
+INFO 2026-06-29 12:39:45,709 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:43:28,777 schedular Scheduled check triggered
+INFO 2026-06-29 12:43:29,541 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 737.54ms
+WARNING 2026-06-29 12:43:31,320 checker High response time for Whatsapp: 1739.86ms
+INFO 2026-06-29 12:43:31,320 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1739.86ms
+WARNING 2026-06-29 12:43:35,209 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:43:35,209 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:43:37,532 checker High response time for Instagram: 2298.3ms
+INFO 2026-06-29 12:43:37,532 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2298.3ms
+INFO 2026-06-29 12:43:37,532 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:44:21,448 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:44:21,448 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:44:36,040 schedular Scheduled check triggered
+INFO 2026-06-29 12:44:36,524 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 453.73ms
+WARNING 2026-06-29 12:44:37,945 checker High response time for Whatsapp: 1390.09ms
+INFO 2026-06-29 12:44:37,946 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1390.09ms
+WARNING 2026-06-29 12:44:43,162 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:44:43,162 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:44:45,053 checker High response time for Instagram: 1863.06ms
+INFO 2026-06-29 12:44:45,053 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 1863.06ms
+INFO 2026-06-29 12:44:45,054 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:49:08,185 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:49:08,185 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:49:09,287 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-29 12:49:09,288 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-29 12:54:08,184 schedular Scheduled check triggered
+WARNING 2026-06-29 12:54:09,268 checker High response time for CloudRegex: 1042.16ms
+INFO 2026-06-29 12:54:09,268 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1042.16ms
+INFO 2026-06-29 12:54:09,290 schedular Scheduled check triggered
+WARNING 2026-06-29 12:54:10,783 checker High response time for CloudRegex: 1449.9ms
+INFO 2026-06-29 12:54:10,784 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1449.9ms
+WARNING 2026-06-29 12:54:12,869 checker High response time for Whatsapp: 3496.98ms
+INFO 2026-06-29 12:54:12,869 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3496.98ms
+WARNING 2026-06-29 12:54:14,111 checker High response time for Whatsapp: 3300.78ms
+INFO 2026-06-29 12:54:14,112 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3300.78ms
+WARNING 2026-06-29 12:54:16,569 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:54:16,570 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:54:17,819 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:54:17,820 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:54:20,087 checker High response time for Instagram: 3479.9ms
+INFO 2026-06-29 12:54:20,088 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3479.9ms
+INFO 2026-06-29 12:54:20,088 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-29 12:54:20,916 checker High response time for Instagram: 3057.24ms
+INFO 2026-06-29 12:54:20,917 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3057.24ms
+INFO 2026-06-29 12:54:20,917 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-29 12:59:08,191 schedular Scheduled check triggered
+WARNING 2026-06-29 12:59:09,279 checker High response time for CloudRegex: 1018.32ms
+INFO 2026-06-29 12:59:09,280 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1018.32ms
+INFO 2026-06-29 12:59:09,293 schedular Scheduled check triggered
+INFO 2026-06-29 12:59:10,245 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 903.56ms
+WARNING 2026-06-29 12:59:12,096 checker High response time for Whatsapp: 2778.05ms
+INFO 2026-06-29 12:59:12,096 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2778.05ms
+WARNING 2026-06-29 12:59:12,911 checker High response time for Whatsapp: 2632.39ms
+INFO 2026-06-29 12:59:12,911 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2632.39ms
+WARNING 2026-06-29 12:59:16,542 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:59:16,543 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:59:17,403 checker Chatgpt is still DOWN
+INFO 2026-06-29 12:59:17,403 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-29 12:59:18,888 checker High response time for Instagram: 2313.12ms
+INFO 2026-06-29 12:59:18,889 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2313.12ms
+INFO 2026-06-29 12:59:18,889 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-29 12:59:19,786 checker High response time for Instagram: 2351.59ms
+INFO 2026-06-29 12:59:19,787 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2351.59ms
+INFO 2026-06-29 12:59:19,788 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 10:26:27,727 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:26:27,729 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:26:34,093 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:26:34,095 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:31:27,739 schedular Scheduled check triggered
+INFO 2026-06-30 10:31:28,545 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 767.09ms
+WARNING 2026-06-30 10:31:30,530 checker High response time for Whatsapp: 1947.91ms
+INFO 2026-06-30 10:31:30,530 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1947.91ms
+INFO 2026-06-30 10:31:34,107 schedular Scheduled check triggered
+INFO 2026-06-30 10:31:34,654 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 518.16ms
+WARNING 2026-06-30 10:31:35,834 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:31:35,834 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:31:37,190 checker High response time for Whatsapp: 2500.57ms
+INFO 2026-06-30 10:31:37,190 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2500.57ms
+WARNING 2026-06-30 10:31:38,122 checker High response time for Instagram: 2249.7ms
+INFO 2026-06-30 10:31:38,122 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2249.7ms
+INFO 2026-06-30 10:31:38,122 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-30 10:31:40,966 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:31:40,967 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:31:43,904 checker High response time for Instagram: 2903.14ms
+INFO 2026-06-30 10:31:43,904 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2903.14ms
+INFO 2026-06-30 10:31:43,905 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 10:36:12,283 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:36:12,284 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:36:27,730 schedular Scheduled check triggered
+INFO 2026-06-30 10:36:28,440 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 669.45ms
+WARNING 2026-06-30 10:36:31,798 checker High response time for Whatsapp: 3250.86ms
+INFO 2026-06-30 10:36:31,798 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3250.86ms
+WARNING 2026-06-30 10:36:37,054 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:36:37,054 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:36:38,902 checker High response time for Instagram: 1822.53ms
+INFO 2026-06-30 10:36:38,903 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 1822.53ms
+INFO 2026-06-30 10:36:38,903 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 10:38:21,255 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:38:21,256 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:40:10,096 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:40:10,096 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:41:22,290 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:41:22,291 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:41:23,473 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:41:23,474 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:42:48,691 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:42:48,691 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:44:00,274 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:44:00,274 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:44:42,010 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:44:42,011 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:46:22,296 schedular Scheduled check triggered
+INFO 2026-06-30 10:46:23,006 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 670.31ms
+WARNING 2026-06-30 10:46:24,860 checker High response time for Whatsapp: 1823.04ms
+INFO 2026-06-30 10:46:24,861 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1823.04ms
+WARNING 2026-06-30 10:46:30,158 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:46:30,158 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:46:32,491 checker High response time for Instagram: 2258.0ms
+INFO 2026-06-30 10:46:32,491 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2258.0ms
+INFO 2026-06-30 10:46:32,491 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 10:46:34,365 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:46:34,366 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:51:22,302 schedular Scheduled check triggered
+INFO 2026-06-30 10:51:23,049 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 715.07ms
+WARNING 2026-06-30 10:51:24,768 checker High response time for Whatsapp: 1679.44ms
+INFO 2026-06-30 10:51:24,768 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1679.44ms
+WARNING 2026-06-30 10:51:28,819 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:51:28,820 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:51:30,834 checker High response time for Instagram: 1976.06ms
+INFO 2026-06-30 10:51:30,835 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 1976.06ms
+INFO 2026-06-30 10:51:30,835 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 10:51:34,375 schedular Scheduled check triggered
+INFO 2026-06-30 10:51:34,881 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 474.39ms
+WARNING 2026-06-30 10:51:36,583 checker High response time for Whatsapp: 1652.35ms
+INFO 2026-06-30 10:51:36,584 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1652.35ms
+WARNING 2026-06-30 10:51:42,317 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:51:42,317 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:51:44,354 checker High response time for Instagram: 2006.33ms
+INFO 2026-06-30 10:51:44,355 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2006.33ms
+INFO 2026-06-30 10:51:44,355 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 10:53:00,805 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:53:00,805 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:53:02,140 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 10:53:02,141 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 10:58:00,816 schedular Scheduled check triggered
+INFO 2026-06-30 10:58:01,565 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 708.13ms
+INFO 2026-06-30 10:58:02,141 schedular Scheduled check triggered
+WARNING 2026-06-30 10:58:03,252 checker High response time for CloudRegex: 1024.61ms
+INFO 2026-06-30 10:58:03,259 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1024.61ms
+WARNING 2026-06-30 10:58:03,901 checker High response time for Whatsapp: 2307.39ms
+INFO 2026-06-30 10:58:03,902 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2307.39ms
+WARNING 2026-06-30 10:58:04,798 checker High response time for Whatsapp: 1500.86ms
+INFO 2026-06-30 10:58:04,799 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1500.86ms
+WARNING 2026-06-30 10:58:08,498 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:58:08,505 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:58:08,538 checker Chatgpt is still DOWN
+INFO 2026-06-30 10:58:08,538 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 10:58:10,954 checker High response time for Instagram: 2384.32ms
+INFO 2026-06-30 10:58:10,954 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2384.32ms
+INFO 2026-06-30 10:58:10,955 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-30 10:58:11,183 checker High response time for Instagram: 2645.28ms
+INFO 2026-06-30 10:58:11,184 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2645.28ms
+INFO 2026-06-30 10:58:11,184 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 11:01:36,521 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:01:36,522 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:02:12,936 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:02:12,936 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:02:47,309 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:02:47,310 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:02:48,401 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:02:48,402 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:12:39,519 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:12:39,536 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:12:58,072 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:12:58,077 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:17:58,120 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:17:58,125 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:18:21,298 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:18:21,309 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:22:58,090 schedular Scheduled check triggered
+WARNING 2026-06-30 11:23:03,367 checker High response time for CloudRegex: 5082.05ms
+INFO 2026-06-30 11:23:03,371 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 5082.05ms
+WARNING 2026-06-30 11:23:12,565 checker High response time for Whatsapp: 8994.63ms
+INFO 2026-06-30 11:23:12,570 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 8994.63ms
+WARNING 2026-06-30 11:23:16,687 checker Chatgpt is still DOWN
+INFO 2026-06-30 11:23:16,688 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-06-30 11:23:21,296 schedular Scheduled check triggered
+WARNING 2026-06-30 11:23:25,337 checker High response time for CloudRegex: 3929.45ms
+INFO 2026-06-30 11:23:25,338 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 3929.45ms
+WARNING 2026-06-30 11:23:25,570 checker High response time for Instagram: 8568.27ms
+INFO 2026-06-30 11:23:25,572 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 8568.27ms
+INFO 2026-06-30 11:23:25,575 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-06-30 11:23:31,128 checker High response time for Whatsapp: 5712.83ms
+INFO 2026-06-30 11:23:31,129 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 5712.83ms
+WARNING 2026-06-30 11:23:35,258 checker Chatgpt is still DOWN
+INFO 2026-06-30 11:23:35,321 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 11:23:42,550 checker High response time for Instagram: 7052.96ms
+INFO 2026-06-30 11:23:42,552 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 7052.96ms
+INFO 2026-06-30 11:23:42,554 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 11:27:58,076 schedular Scheduled check triggered
+WARNING 2026-06-30 11:27:59,942 checker High response time for CloudRegex: 1804.17ms
+INFO 2026-06-30 11:27:59,943 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1804.17ms
+WARNING 2026-06-30 11:28:03,968 checker High response time for Whatsapp: 3970.15ms
+INFO 2026-06-30 11:28:03,969 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3970.15ms
+WARNING 2026-06-30 11:28:09,274 checker Chatgpt is still DOWN
+INFO 2026-06-30 11:28:09,275 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 11:28:13,977 checker High response time for Instagram: 4657.93ms
+INFO 2026-06-30 11:28:13,978 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 4657.93ms
+INFO 2026-06-30 11:28:13,978 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 11:28:21,302 schedular Scheduled check triggered
+WARNING 2026-06-30 11:28:23,126 checker High response time for CloudRegex: 1630.17ms
+INFO 2026-06-30 11:28:23,128 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1630.17ms
+WARNING 2026-06-30 11:28:26,477 checker High response time for Whatsapp: 3199.59ms
+INFO 2026-06-30 11:28:26,481 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3199.59ms
+WARNING 2026-06-30 11:28:30,629 checker Chatgpt is still DOWN
+INFO 2026-06-30 11:28:30,629 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 11:28:34,896 checker High response time for Instagram: 4122.95ms
+INFO 2026-06-30 11:28:34,896 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 4122.95ms
+INFO 2026-06-30 11:28:34,897 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 11:29:23,847 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:29:23,847 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:29:42,308 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:29:42,312 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:30:03,115 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:30:03,116 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:30:59,084 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:30:59,085 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:31:01,212 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:31:01,212 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:32:28,847 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:32:28,848 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:32:31,090 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:32:31,091 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:35:02,546 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:35:02,547 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:35:04,560 schedular APScheduler started � will check websites every 5 minutes
+INFO 2026-06-30 11:35:04,560 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:39:16,265 schedular APScheduler started � will check websites every 5 hours
+INFO 2026-06-30 11:39:16,266 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:40:02,546 schedular Scheduled check triggered
+WARNING 2026-06-30 11:40:04,234 checker High response time for CloudRegex: 1617.76ms
+INFO 2026-06-30 11:40:04,236 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1617.76ms
+WARNING 2026-06-30 11:40:09,482 checker High response time for Whatsapp: 5200.18ms
+INFO 2026-06-30 11:40:09,483 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 5200.18ms
+WARNING 2026-06-30 11:40:13,406 checker Chatgpt is still DOWN
+INFO 2026-06-30 11:40:13,407 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 11:40:18,164 checker High response time for Instagram: 4697.63ms
+INFO 2026-06-30 11:40:18,165 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 4697.63ms
+INFO 2026-06-30 11:40:18,166 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 11:45:02,557 schedular Scheduled check triggered
+WARNING 2026-06-30 11:45:04,122 checker High response time for CloudRegex: 1508.33ms
+INFO 2026-06-30 11:45:04,130 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1508.33ms
+WARNING 2026-06-30 11:45:07,629 checker High response time for Whatsapp: 3388.11ms
+INFO 2026-06-30 11:45:07,631 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3388.11ms
+WARNING 2026-06-30 11:45:17,738 checker Chatgpt is still DOWN
+INFO 2026-06-30 11:45:17,739 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 11:45:21,780 checker High response time for Instagram: 3965.85ms
+INFO 2026-06-30 11:45:21,782 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3965.85ms
+INFO 2026-06-30 11:45:21,783 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 11:50:02,550 schedular Scheduled check triggered
+WARNING 2026-06-30 11:50:04,555 checker High response time for CloudRegex: 1829.89ms
+INFO 2026-06-30 11:50:04,570 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1829.89ms
+WARNING 2026-06-30 11:50:07,896 checker High response time for Whatsapp: 3203.71ms
+INFO 2026-06-30 11:50:07,898 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3203.71ms
+WARNING 2026-06-30 11:50:11,741 checker Chatgpt is still DOWN
+INFO 2026-06-30 11:50:11,743 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-06-30 11:50:15,756 checker High response time for Instagram: 3927.21ms
+INFO 2026-06-30 11:50:15,757 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3927.21ms
+INFO 2026-06-30 11:50:15,757 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-06-30 11:52:01,383 schedular APScheduler started � will check websites every 5 hours
+INFO 2026-06-30 11:52:01,383 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:52:03,307 schedular APScheduler started � will check websites every 5 hours
+INFO 2026-06-30 11:52:03,308 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:55:21,190 schedular Scheduler Started
+INFO 2026-06-30 11:55:21,191 schedular Next Run Time: 2026-06-30 16:55:21.187676+05:30
+INFO 2026-06-30 11:55:21,191 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 11:57:11,237 schedular ========================================
+INFO 2026-06-30 11:57:11,238 schedular APScheduler Started Successfully
+INFO 2026-06-30 11:57:11,238 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 11:57:11,239 schedular Next Run : 2026-06-30 16:57:11.235043+05:30
+INFO 2026-06-30 11:57:11,240 schedular ========================================
+INFO 2026-06-30 11:57:11,241 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:00:14,993 schedular ========================================
+INFO 2026-06-30 12:00:14,994 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:00:14,994 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:00:14,995 schedular Next Run : 2026-06-30 17:00:14.991574+05:30
+INFO 2026-06-30 12:00:14,995 schedular ========================================
+INFO 2026-06-30 12:00:14,996 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:00:51,403 schedular ========================================
+INFO 2026-06-30 12:00:51,403 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:00:51,404 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:00:51,404 schedular Next Run : 2026-06-30 17:00:51.401488+05:30
+INFO 2026-06-30 12:00:51,405 schedular ========================================
+INFO 2026-06-30 12:00:51,405 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:03:38,716 schedular ============================================================
+INFO 2026-06-30 12:03:38,717 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:03:38,718 schedular Scheduler Started At : 30-06-2026 12:03:38 PM
+INFO 2026-06-30 12:03:38,718 schedular Interval : Every 5 Hours
+INFO 2026-06-30 12:03:38,719 schedular ============================================================
+INFO 2026-06-30 12:03:38,719 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:04:15,340 schedular ========================================
+INFO 2026-06-30 12:04:15,341 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:04:15,341 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:04:15,342 schedular Next Run : 2026-06-30 17:04:15.338573+05:30
+INFO 2026-06-30 12:04:15,343 schedular ========================================
+INFO 2026-06-30 12:04:15,343 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:13:53,570 schedular ========================================
+INFO 2026-06-30 12:13:53,571 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:13:53,571 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:13:53,572 schedular Next Run : 2026-06-30 17:13:53.567896+05:30
+INFO 2026-06-30 12:13:53,572 schedular ========================================
+INFO 2026-06-30 12:13:53,573 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:13:55,568 schedular ========================================
+INFO 2026-06-30 12:13:55,569 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:13:55,569 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:13:55,570 schedular Next Run : 2026-06-30 17:13:55.564550+05:30
+INFO 2026-06-30 12:13:55,570 schedular ========================================
+INFO 2026-06-30 12:13:55,571 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:24:20,784 schedular ========================================
+INFO 2026-06-30 12:24:20,785 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:24:20,786 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:24:20,786 schedular Next Run : 2026-06-30 17:24:20.781627+05:30
+INFO 2026-06-30 12:24:20,787 schedular ========================================
+INFO 2026-06-30 12:24:20,787 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:25:30,212 schedular ========================================
+INFO 2026-06-30 12:25:30,213 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:25:30,214 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:25:30,214 schedular Next Run : 2026-06-30 17:25:30.210509+05:30
+INFO 2026-06-30 12:25:30,215 schedular ========================================
+INFO 2026-06-30 12:25:30,215 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:26:09,327 schedular ========================================
+INFO 2026-06-30 12:26:09,328 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:26:09,328 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:26:09,329 schedular Next Run : 2026-06-30 17:26:09.325605+05:30
+INFO 2026-06-30 12:26:09,329 schedular ========================================
+INFO 2026-06-30 12:26:09,330 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:29:40,979 schedular ========================================
+INFO 2026-06-30 12:29:40,980 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:29:40,980 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:29:40,981 schedular Next Run : 2026-06-30 17:29:40.976333+05:30
+INFO 2026-06-30 12:29:40,981 schedular ========================================
+INFO 2026-06-30 12:29:40,982 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:29:43,113 schedular ========================================
+INFO 2026-06-30 12:29:43,113 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:29:43,114 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:29:43,115 schedular Next Run : 2026-06-30 17:29:43.110710+05:30
+INFO 2026-06-30 12:29:43,116 schedular ========================================
+INFO 2026-06-30 12:29:43,116 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:35:15,543 schedular ========================================
+INFO 2026-06-30 12:35:15,543 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:35:15,544 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:35:15,545 schedular Next Run : 2026-06-30 17:35:15.540422+05:30
+INFO 2026-06-30 12:35:15,545 schedular ========================================
+INFO 2026-06-30 12:35:15,546 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:35:36,370 schedular ========================================
+INFO 2026-06-30 12:35:36,370 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:35:36,371 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:35:36,372 schedular Next Run : 2026-06-30 17:35:36.367745+05:30
+INFO 2026-06-30 12:35:36,372 schedular ========================================
+INFO 2026-06-30 12:35:36,373 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:35:58,241 schedular ========================================
+INFO 2026-06-30 12:35:58,247 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:35:58,250 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:35:58,252 schedular Next Run : 2026-06-30 17:35:58.236608+05:30
+INFO 2026-06-30 12:35:58,254 schedular ========================================
+INFO 2026-06-30 12:35:58,254 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:47:04,302 schedular ========================================
+INFO 2026-06-30 12:47:04,303 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:47:04,304 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:47:04,304 schedular Next Run : 2026-06-30 17:47:04.220624+05:30
+INFO 2026-06-30 12:47:04,305 schedular ========================================
+INFO 2026-06-30 12:47:04,305 apps APScheduler started via AppConfig.ready()
+INFO 2026-06-30 12:47:06,422 schedular ========================================
+INFO 2026-06-30 12:47:06,422 schedular APScheduler Started Successfully
+INFO 2026-06-30 12:47:06,423 schedular Job Name : Check all websites every 5 hours
+INFO 2026-06-30 12:47:06,424 schedular Next Run : 2026-06-30 17:47:06.399462+05:30
+INFO 2026-06-30 12:47:06,425 schedular ========================================
+INFO 2026-06-30 12:47:06,425 apps APScheduler started via AppConfig.ready()
+WARNING 2026-06-30 12:50:52,840 checker High response time for CloudRegex: 1597.91ms
+WARNING 2026-06-30 12:50:57,124 checker High response time for Whatsapp: 4207.87ms
+WARNING 2026-06-30 12:51:01,130 checker Chatgpt is still DOWN
+WARNING 2026-06-30 12:51:06,163 checker High response time for Instagram: 4935.45ms
+INFO 2026-07-01 10:36:00,699 schedular ========================================
+INFO 2026-07-01 10:36:00,700 schedular APScheduler Started Successfully
+INFO 2026-07-01 10:36:00,703 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 10:36:00,704 schedular Next Run : 2026-07-01 15:36:00.644269+05:30
+INFO 2026-07-01 10:36:00,705 schedular ========================================
+INFO 2026-07-01 10:36:00,705 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 10:51:37,564 schedular ========================================
+INFO 2026-07-01 10:51:37,564 schedular APScheduler Started Successfully
+INFO 2026-07-01 10:51:37,565 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 10:51:37,566 schedular Next Run : 2026-07-01 15:51:37.534623+05:30
+INFO 2026-07-01 10:51:37,566 schedular ========================================
+INFO 2026-07-01 10:51:37,566 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 10:51:38,707 schedular ========================================
+INFO 2026-07-01 10:51:38,707 schedular APScheduler Started Successfully
+INFO 2026-07-01 10:51:38,708 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 10:51:38,708 schedular Next Run : 2026-07-01 15:51:38.687556+05:30
+INFO 2026-07-01 10:51:38,709 schedular ========================================
+INFO 2026-07-01 10:51:38,710 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 10:54:03,703 schedular ========================================
+INFO 2026-07-01 10:54:03,705 schedular APScheduler Started Successfully
+INFO 2026-07-01 10:54:03,706 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 10:54:03,707 schedular Next Run : 2026-07-01 15:54:03.678826+05:30
+INFO 2026-07-01 10:54:03,708 schedular ========================================
+INFO 2026-07-01 10:54:03,708 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 11:01:00,831 schedular ========================================
+INFO 2026-07-01 11:01:00,832 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:01:00,832 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:01:00,832 schedular Next Run : 2026-07-01 16:01:00.813066+05:30
+INFO 2026-07-01 11:01:00,834 schedular ========================================
+INFO 2026-07-01 11:01:00,836 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 11:01:02,007 schedular ========================================
+INFO 2026-07-01 11:01:02,008 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:01:02,008 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:01:02,009 schedular Next Run : 2026-07-01 16:01:01.987489+05:30
+INFO 2026-07-01 11:01:02,010 schedular ========================================
+INFO 2026-07-01 11:01:02,010 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 11:05:40,145 schedular ========================================
+INFO 2026-07-01 11:05:40,146 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:05:40,146 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:05:40,147 schedular Next Run : 2026-07-01 16:05:40.125470+05:30
+INFO 2026-07-01 11:05:40,147 schedular ========================================
+INFO 2026-07-01 11:05:40,148 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 11:06:59,042 schedular ========================================
+INFO 2026-07-01 11:06:59,042 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:06:59,042 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:06:59,043 schedular Next Run : 2026-07-01 16:06:59.024110+05:30
+INFO 2026-07-01 11:06:59,044 schedular ========================================
+INFO 2026-07-01 11:06:59,044 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 11:11:00,474 schedular ========================================
+INFO 2026-07-01 11:11:00,475 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:11:00,475 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:11:00,476 schedular Next Run : 2026-07-01 16:11:00.453168+05:30
+INFO 2026-07-01 11:11:00,477 schedular ========================================
+INFO 2026-07-01 11:11:00,477 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 11:11:05,268 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 655.98ms
+WARNING 2026-07-01 11:11:07,046 checker High response time for Whatsapp: 1750.96ms
+INFO 2026-07-01 11:11:07,046 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1750.96ms
+WARNING 2026-07-01 11:11:10,861 checker Chatgpt is still DOWN
+INFO 2026-07-01 11:11:10,861 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-01 11:11:12,814 checker High response time for Instagram: 1929.71ms
+INFO 2026-07-01 11:11:12,814 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 1929.71ms
+INFO 2026-07-01 11:11:12,814 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-07-01 11:20:12,896 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 613.92ms
+WARNING 2026-07-01 11:20:14,688 checker High response time for Whatsapp: 1728.07ms
+INFO 2026-07-01 11:20:14,689 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1728.07ms
+WARNING 2026-07-01 11:20:21,590 checker Chatgpt is still DOWN
+INFO 2026-07-01 11:20:21,590 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-01 11:20:23,665 checker High response time for Instagram: 2034.88ms
+INFO 2026-07-01 11:20:23,666 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2034.88ms
+INFO 2026-07-01 11:20:23,666 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+WARNING 2026-07-01 11:21:27,245 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 115)
+WARNING 2026-07-01 11:21:28,362 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 115)
+INFO 2026-07-01 11:24:54,209 schedular ========================================
+INFO 2026-07-01 11:24:54,209 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:24:54,209 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:24:54,210 schedular Next Run : 2026-07-01 16:24:54.188575+05:30
+INFO 2026-07-01 11:24:54,210 schedular ========================================
+INFO 2026-07-01 11:24:54,211 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 11:25:35,802 checker High response time for Whatsapp: 1578.17ms
+INFO 2026-07-01 11:25:42,900 checker Status change DOWN->UP for Chatgpt
+WARNING 2026-07-01 11:25:45,093 checker High response time for Instagram: 2160.43ms
+INFO 2026-07-01 11:28:50,758 schedular ========================================
+INFO 2026-07-01 11:28:50,759 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:28:50,759 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:28:50,760 schedular Next Run : 2026-07-01 16:28:50.736850+05:30
+INFO 2026-07-01 11:28:50,760 schedular ========================================
+INFO 2026-07-01 11:28:50,761 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 11:30:04,678 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 13)
+INFO 2026-07-01 11:30:31,450 schedular ========================================
+INFO 2026-07-01 11:30:31,450 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:30:31,451 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:30:31,452 schedular Next Run : 2026-07-01 16:30:31.432914+05:30
+INFO 2026-07-01 11:30:31,452 schedular ========================================
+INFO 2026-07-01 11:30:31,452 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 11:35:34,751 apps Could not start APScheduler (expected during manage.py commands): unterminated triple-quoted string literal (detected at line 256) (checker.py, line 201)
+WARNING 2026-07-01 11:35:50,731 apps Could not start APScheduler (expected during manage.py commands): unterminated triple-quoted string literal (detected at line 256) (checker.py, line 201)
+WARNING 2026-07-01 11:36:59,884 apps Could not start APScheduler (expected during manage.py commands): unterminated triple-quoted string literal (detected at line 344) (checker.py, line 289)
+WARNING 2026-07-01 11:39:27,681 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 251)
+WARNING 2026-07-01 11:39:55,768 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 253)
+WARNING 2026-07-01 11:40:58,226 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 342)
+WARNING 2026-07-01 11:41:53,594 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 344)
+WARNING 2026-07-01 11:43:02,097 apps Could not start APScheduler (expected during manage.py commands): invalid syntax (checker.py, line 351)
+INFO 2026-07-01 11:56:26,925 schedular ========================================
+INFO 2026-07-01 11:56:26,925 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:56:26,926 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:56:26,926 schedular Next Run : 2026-07-01 16:56:26.904346+05:30
+INFO 2026-07-01 11:56:26,926 schedular ========================================
+INFO 2026-07-01 11:56:26,927 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 11:57:09,510 schedular ========================================
+INFO 2026-07-01 11:57:09,510 schedular APScheduler Started Successfully
+INFO 2026-07-01 11:57:09,511 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 11:57:09,511 schedular Next Run : 2026-07-01 16:57:09.488004+05:30
+INFO 2026-07-01 11:57:09,511 schedular ========================================
+INFO 2026-07-01 11:57:09,511 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:04:17,429 schedular ========================================
+INFO 2026-07-01 12:04:17,430 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:04:17,430 schedular ========================================
+INFO 2026-07-01 12:04:17,450 schedular ========================================
+INFO 2026-07-01 12:04:17,450 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:04:17,450 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:04:17,450 schedular Next Run : 2026-07-01 17:04:17.424883+05:30
+INFO 2026-07-01 12:04:17,451 schedular ========================================
+INFO 2026-07-01 12:04:17,451 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:04:17,468 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:04:27,318 checker Email sent successfully to ['dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'shindedivya762@gmail.com']
+WARNING 2026-07-01 12:04:27,324 checker High response time for CloudRegex: 1113.5ms
+INFO 2026-07-01 12:04:27,353 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1113.5ms
+INFO 2026-07-01 12:04:36,217 checker Email sent successfully to ['dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'shindedivya762@gmail.com']
+WARNING 2026-07-01 12:04:36,217 checker High response time for Whatsapp: 2514.64ms
+INFO 2026-07-01 12:04:36,237 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2514.64ms
+ERROR 2026-07-01 12:04:44,100 checker Email sending failed: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:04:44,102 checker High response time for Chatgpt: 1334.05ms
+INFO 2026-07-01 12:04:44,125 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1334.05ms
+INFO 2026-07-01 12:04:54,082 checker Email sent successfully to ['dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'shindedivya762@gmail.com']
+WARNING 2026-07-01 12:04:54,083 checker High response time for Instagram: 2357.75ms
+INFO 2026-07-01 12:04:54,101 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2357.75ms
+INFO 2026-07-01 12:04:54,101 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:04:54,108 schedular ========================================
+INFO 2026-07-01 12:04:54,108 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:04:54,108 schedular ========================================
+INFO 2026-07-01 12:05:45,864 schedular ========================================
+INFO 2026-07-01 12:05:45,864 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:05:45,865 schedular ========================================
+INFO 2026-07-01 12:05:45,874 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:05:45,893 schedular ========================================
+INFO 2026-07-01 12:05:45,894 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:05:45,898 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:05:45,900 schedular Next Run : 2026-07-01 17:05:45.861186+05:30
+INFO 2026-07-01 12:05:45,903 schedular ========================================
+INFO 2026-07-01 12:05:45,903 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:05:46,701 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 790.7ms
+INFO 2026-07-01 12:05:47,484 schedular ========================================
+INFO 2026-07-01 12:05:47,485 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:05:47,486 schedular ========================================
+INFO 2026-07-01 12:05:47,496 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:05:47,515 schedular ========================================
+INFO 2026-07-01 12:05:47,532 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:05:47,545 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:05:47,561 schedular Next Run : 2026-07-01 17:05:47.480398+05:30
+INFO 2026-07-01 12:05:47,562 schedular ========================================
+INFO 2026-07-01 12:05:47,563 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:05:48,398 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 866.17ms
+ERROR 2026-07-01 12:05:55,392 checker Email sending failed: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:05:55,400 checker High response time for Whatsapp: 1843.54ms
+INFO 2026-07-01 12:05:55,418 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1843.54ms
+INFO 2026-07-01 12:05:55,679 checker Email sent successfully to ['dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'shindedivya762@gmail.com']
+WARNING 2026-07-01 12:05:55,699 checker High response time for Whatsapp: 2291.36ms
+INFO 2026-07-01 12:05:55,725 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2291.36ms
+ERROR 2026-07-01 12:06:02,950 checker Email sending failed: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:06:02,954 checker High response time for Chatgpt: 2311.17ms
+INFO 2026-07-01 12:06:02,971 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2311.17ms
+ERROR 2026-07-01 12:06:03,256 checker Email sending failed: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:06:03,258 checker High response time for Chatgpt: 1608.94ms
+INFO 2026-07-01 12:06:03,277 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1608.94ms
+ERROR 2026-07-01 12:06:11,245 checker Email sending failed: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:06:11,248 checker High response time for Instagram: 2080.68ms
+INFO 2026-07-01 12:06:11,270 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2080.68ms
+INFO 2026-07-01 12:06:11,271 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:06:11,279 schedular ========================================
+INFO 2026-07-01 12:06:11,279 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:06:11,279 schedular ========================================
+INFO 2026-07-01 12:06:11,551 checker Email sent successfully to ['dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'dikshawayal@gmail.com', 'shindedivya762@gmail.com']
+WARNING 2026-07-01 12:06:11,553 checker High response time for Instagram: 2342.29ms
+INFO 2026-07-01 12:06:11,576 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2342.29ms
+INFO 2026-07-01 12:06:11,577 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:06:11,590 schedular ========================================
+INFO 2026-07-01 12:06:11,594 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:06:11,595 schedular ========================================
+WARNING 2026-07-01 12:13:44,597 apps Could not start APScheduler (expected during manage.py commands): cannot import name 'daily_report_email' from 'monitor.email_templates' (C:\Users\ws\OneDrive\Desktop\Website Monitoring System\website_monitoring_system\monitor\email_templates.py)
+INFO 2026-07-01 12:14:06,088 schedular ========================================
+INFO 2026-07-01 12:14:06,092 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:14:06,097 schedular ========================================
+INFO 2026-07-01 12:14:06,106 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:14:06,134 schedular ========================================
+INFO 2026-07-01 12:14:06,141 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:14:06,144 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:14:06,145 schedular Next Run : 2026-07-01 17:14:06.082113+05:30
+INFO 2026-07-01 12:14:06,148 schedular ========================================
+INFO 2026-07-01 12:14:06,148 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:14:13,944 checker High response time for CloudRegex: 1936.84ms
+INFO 2026-07-01 12:14:13,985 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1936.84ms
+INFO 2026-07-01 12:14:20,420 schedular ========================================
+INFO 2026-07-01 12:14:20,421 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:14:20,422 schedular ========================================
+INFO 2026-07-01 12:14:20,437 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:14:20,462 schedular ========================================
+INFO 2026-07-01 12:14:20,462 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:14:20,462 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:14:20,463 schedular Next Run : 2026-07-01 17:14:20.415021+05:30
+INFO 2026-07-01 12:14:20,463 schedular ========================================
+INFO 2026-07-01 12:14:20,463 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:14:24,515 checker High response time for Whatsapp: 4488.81ms
+INFO 2026-07-01 12:14:24,534 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 4488.81ms
+WARNING 2026-07-01 12:14:27,521 checker High response time for CloudRegex: 1397.91ms
+INFO 2026-07-01 12:14:27,549 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1397.91ms
+WARNING 2026-07-01 12:14:31,819 checker High response time for Chatgpt: 2094.53ms
+INFO 2026-07-01 12:14:31,847 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2094.53ms
+WARNING 2026-07-01 12:14:35,643 checker High response time for Whatsapp: 2426.05ms
+INFO 2026-07-01 12:14:35,673 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2426.05ms
+WARNING 2026-07-01 12:14:39,165 checker High response time for Instagram: 2015.95ms
+INFO 2026-07-01 12:14:39,186 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2015.95ms
+INFO 2026-07-01 12:14:39,186 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:14:39,197 schedular ========================================
+INFO 2026-07-01 12:14:39,198 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:14:39,199 schedular ========================================
+WARNING 2026-07-01 12:14:43,562 checker High response time for Chatgpt: 2519.67ms
+INFO 2026-07-01 12:14:43,578 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2519.67ms
+WARNING 2026-07-01 12:14:52,168 checker High response time for Instagram: 2732.71ms
+INFO 2026-07-01 12:14:52,208 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2732.71ms
+INFO 2026-07-01 12:14:52,208 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:14:52,219 schedular ========================================
+INFO 2026-07-01 12:14:52,219 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:14:52,219 schedular ========================================
+INFO 2026-07-01 12:15:19,934 schedular ========================================
+INFO 2026-07-01 12:15:19,935 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:15:19,935 schedular ========================================
+INFO 2026-07-01 12:15:19,943 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:15:19,958 schedular ========================================
+INFO 2026-07-01 12:15:19,958 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:15:19,959 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:15:19,959 schedular Next Run : 2026-07-01 17:15:19.931442+05:30
+INFO 2026-07-01 12:15:19,960 schedular ========================================
+INFO 2026-07-01 12:15:19,960 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:15:22,298 schedular ========================================
+INFO 2026-07-01 12:15:22,299 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:15:22,300 schedular ========================================
+INFO 2026-07-01 12:15:22,311 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:15:22,332 schedular ========================================
+INFO 2026-07-01 12:15:22,333 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:15:22,334 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:15:22,335 schedular Next Run : 2026-07-01 17:15:22.293925+05:30
+INFO 2026-07-01 12:15:22,335 schedular ========================================
+INFO 2026-07-01 12:15:22,336 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:15:26,579 checker High response time for CloudRegex: 1046.26ms
+INFO 2026-07-01 12:15:26,601 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1046.26ms
+WARNING 2026-07-01 12:15:29,124 checker High response time for CloudRegex: 1513.77ms
+INFO 2026-07-01 12:15:29,148 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1513.77ms
+WARNING 2026-07-01 12:15:34,050 checker High response time for Whatsapp: 1952.0ms
+INFO 2026-07-01 12:15:34,069 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1952.0ms
+WARNING 2026-07-01 12:15:36,301 checker High response time for Whatsapp: 1921.73ms
+INFO 2026-07-01 12:15:36,324 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1921.73ms
+WARNING 2026-07-01 12:15:41,009 checker High response time for Chatgpt: 1217.58ms
+INFO 2026-07-01 12:15:41,028 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1217.58ms
+WARNING 2026-07-01 12:15:43,188 checker High response time for Chatgpt: 1292.19ms
+INFO 2026-07-01 12:15:43,203 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1292.19ms
+WARNING 2026-07-01 12:15:48,899 checker High response time for Instagram: 2292.18ms
+INFO 2026-07-01 12:15:48,919 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2292.18ms
+INFO 2026-07-01 12:15:48,920 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:15:48,928 schedular ========================================
+INFO 2026-07-01 12:15:48,928 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:15:48,928 schedular ========================================
+WARNING 2026-07-01 12:15:51,352 checker High response time for Instagram: 2230.77ms
+INFO 2026-07-01 12:15:51,384 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2230.77ms
+INFO 2026-07-01 12:15:51,385 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:15:51,393 schedular ========================================
+INFO 2026-07-01 12:15:51,393 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:15:51,393 schedular ========================================
+INFO 2026-07-01 12:19:26,026 schedular ========================================
+INFO 2026-07-01 12:19:26,027 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:19:26,027 schedular ========================================
+INFO 2026-07-01 12:19:26,034 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:19:26,046 schedular ========================================
+INFO 2026-07-01 12:19:26,046 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:19:26,047 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:19:26,048 schedular Next Run : 2026-07-01 17:19:26.023211+05:30
+INFO 2026-07-01 12:19:26,048 schedular ========================================
+INFO 2026-07-01 12:19:26,049 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:19:26,742 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 676.68ms
+WARNING 2026-07-01 12:19:33,897 checker High response time for Whatsapp: 1941.6ms
+INFO 2026-07-01 12:19:33,935 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1941.6ms
+WARNING 2026-07-01 12:19:41,583 checker High response time for Chatgpt: 2596.03ms
+INFO 2026-07-01 12:19:41,609 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2596.03ms
+WARNING 2026-07-01 12:19:48,723 checker High response time for Instagram: 1757.6ms
+INFO 2026-07-01 12:19:48,744 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 1757.6ms
+INFO 2026-07-01 12:19:48,744 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:19:48,754 schedular ========================================
+INFO 2026-07-01 12:19:48,754 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:19:48,755 schedular ========================================
+INFO 2026-07-01 12:19:52,963 schedular ========================================
+INFO 2026-07-01 12:19:52,963 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:19:52,964 schedular ========================================
+INFO 2026-07-01 12:19:52,971 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:19:52,978 schedular ========================================
+INFO 2026-07-01 12:19:52,978 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:19:52,979 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:19:52,979 schedular Next Run : 2026-07-01 17:19:52.959374+05:30
+INFO 2026-07-01 12:19:52,980 schedular ========================================
+INFO 2026-07-01 12:19:52,981 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:19:53,647 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 644.21ms
+INFO 2026-07-01 12:19:54,301 schedular ========================================
+INFO 2026-07-01 12:19:54,301 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:19:54,302 schedular ========================================
+INFO 2026-07-01 12:19:54,310 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:19:54,324 schedular ========================================
+INFO 2026-07-01 12:19:54,324 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:19:54,325 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:19:54,326 schedular Next Run : 2026-07-01 17:19:54.297287+05:30
+INFO 2026-07-01 12:19:54,326 schedular ========================================
+INFO 2026-07-01 12:19:54,326 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:19:55,175 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 830.19ms
+WARNING 2026-07-01 12:20:00,288 checker High response time for Whatsapp: 2121.92ms
+INFO 2026-07-01 12:20:00,308 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2121.92ms
+WARNING 2026-07-01 12:20:01,285 checker High response time for Whatsapp: 2139.45ms
+INFO 2026-07-01 12:20:01,299 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2139.45ms
+WARNING 2026-07-01 12:20:06,140 checker High response time for Chatgpt: 1320.49ms
+INFO 2026-07-01 12:20:06,164 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1320.49ms
+WARNING 2026-07-01 12:20:06,978 checker High response time for Chatgpt: 1418.91ms
+INFO 2026-07-01 12:20:06,992 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1418.91ms
+WARNING 2026-07-01 12:20:13,192 checker High response time for Instagram: 2030.07ms
+INFO 2026-07-01 12:20:13,211 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2030.07ms
+INFO 2026-07-01 12:20:13,211 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:20:13,220 schedular ========================================
+INFO 2026-07-01 12:20:13,220 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:20:13,220 schedular ========================================
+WARNING 2026-07-01 12:20:13,548 checker High response time for Instagram: 1890.27ms
+INFO 2026-07-01 12:20:13,574 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 1890.27ms
+INFO 2026-07-01 12:20:13,575 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:20:13,583 schedular ========================================
+INFO 2026-07-01 12:20:13,583 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:20:13,583 schedular ========================================
+INFO 2026-07-01 12:20:52,822 schedular ========================================
+INFO 2026-07-01 12:20:52,823 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:20:52,824 schedular ========================================
+INFO 2026-07-01 12:20:52,842 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:20:52,856 schedular ========================================
+INFO 2026-07-01 12:20:52,856 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:20:52,856 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:20:52,857 schedular Next Run : 2026-07-01 17:20:52.813465+05:30
+INFO 2026-07-01 12:20:52,857 schedular ========================================
+INFO 2026-07-01 12:20:52,857 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:20:59,486 checker High response time for CloudRegex: 1747.29ms
+INFO 2026-07-01 12:20:59,511 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1747.29ms
+WARNING 2026-07-01 12:21:06,862 checker High response time for Whatsapp: 2656.42ms
+INFO 2026-07-01 12:21:06,930 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2656.42ms
+WARNING 2026-07-01 12:21:14,771 checker High response time for Chatgpt: 2608.07ms
+INFO 2026-07-01 12:21:14,829 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2608.07ms
+INFO 2026-07-01 12:21:25,178 schedular ========================================
+INFO 2026-07-01 12:21:25,178 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:21:25,179 schedular ========================================
+INFO 2026-07-01 12:21:25,192 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:21:25,209 schedular ========================================
+INFO 2026-07-01 12:21:25,209 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:21:25,210 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:21:25,210 schedular Next Run : 2026-07-01 17:21:25.173309+05:30
+INFO 2026-07-01 12:21:25,210 schedular ========================================
+INFO 2026-07-01 12:21:25,210 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:21:27,122 schedular ========================================
+INFO 2026-07-01 12:21:27,122 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:21:27,123 schedular ========================================
+INFO 2026-07-01 12:21:27,137 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:21:27,155 schedular ========================================
+INFO 2026-07-01 12:21:27,156 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:21:27,156 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:21:27,156 schedular Next Run : 2026-07-01 17:21:27.117008+05:30
+INFO 2026-07-01 12:21:27,157 schedular ========================================
+INFO 2026-07-01 12:21:27,157 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:21:31,047 checker High response time for CloudRegex: 1072.94ms
+INFO 2026-07-01 12:21:31,191 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1072.94ms
+WARNING 2026-07-01 12:21:32,819 checker High response time for CloudRegex: 1010.32ms
+INFO 2026-07-01 12:21:32,850 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1010.32ms
+WARNING 2026-07-01 12:21:39,230 checker High response time for Whatsapp: 3321.38ms
+INFO 2026-07-01 12:21:39,283 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3321.38ms
+WARNING 2026-07-01 12:21:40,363 checker High response time for Whatsapp: 2870.04ms
+INFO 2026-07-01 12:21:40,404 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2870.04ms
+WARNING 2026-07-01 12:21:47,941 checker High response time for Chatgpt: 3022.21ms
+INFO 2026-07-01 12:21:48,001 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 3022.21ms
+WARNING 2026-07-01 12:21:48,538 checker High response time for Chatgpt: 2506.11ms
+INFO 2026-07-01 12:21:48,568 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2506.11ms
+WARNING 2026-07-01 12:21:56,239 checker High response time for Instagram: 3804.76ms
+INFO 2026-07-01 12:21:56,265 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3804.76ms
+INFO 2026-07-01 12:21:56,265 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:21:56,277 schedular ========================================
+INFO 2026-07-01 12:21:56,278 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:21:56,278 schedular ========================================
+WARNING 2026-07-01 12:21:57,179 checker High response time for Instagram: 3793.02ms
+INFO 2026-07-01 12:21:57,253 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3793.02ms
+INFO 2026-07-01 12:21:57,253 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:21:57,271 schedular ========================================
+INFO 2026-07-01 12:21:57,272 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:21:57,272 schedular ========================================
+INFO 2026-07-01 12:23:54,307 schedular ========================================
+INFO 2026-07-01 12:23:54,308 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:23:54,309 schedular ========================================
+INFO 2026-07-01 12:23:54,370 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:23:54,520 schedular ========================================
+INFO 2026-07-01 12:23:54,550 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:23:54,551 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:23:54,552 schedular Next Run : 2026-07-01 17:23:54.284572+05:30
+INFO 2026-07-01 12:23:54,558 schedular ========================================
+INFO 2026-07-01 12:23:54,558 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:24:09,634 checker High response time for CloudRegex: 9511.49ms
+INFO 2026-07-01 12:24:09,707 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 9511.49ms
+WARNING 2026-07-01 12:24:24,013 checker High response time for Whatsapp: 8300.8ms
+INFO 2026-07-01 12:24:24,096 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 8300.8ms
+WARNING 2026-07-01 12:24:37,582 checker High response time for Chatgpt: 8613.69ms
+INFO 2026-07-01 12:24:37,729 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 8613.69ms
+WARNING 2026-07-01 12:25:03,073 checker High response time for Instagram: 17541.32ms
+INFO 2026-07-01 12:25:03,140 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 17541.32ms
+INFO 2026-07-01 12:25:03,140 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:25:03,175 schedular ========================================
+INFO 2026-07-01 12:25:03,176 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:25:03,176 schedular ========================================
+INFO 2026-07-01 12:25:07,181 schedular ========================================
+INFO 2026-07-01 12:25:07,183 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:25:07,183 schedular ========================================
+INFO 2026-07-01 12:25:07,222 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:25:07,265 schedular ========================================
+INFO 2026-07-01 12:25:07,266 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:25:07,267 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:25:07,267 schedular Next Run : 2026-07-01 17:25:07.168494+05:30
+INFO 2026-07-01 12:25:07,268 schedular ========================================
+INFO 2026-07-01 12:25:07,268 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:25:11,281 schedular ========================================
+INFO 2026-07-01 12:25:11,282 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:25:11,283 schedular ========================================
+INFO 2026-07-01 12:25:11,307 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:25:11,336 schedular ========================================
+INFO 2026-07-01 12:25:11,337 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:25:11,338 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:25:11,339 schedular Next Run : 2026-07-01 17:25:11.271110+05:30
+INFO 2026-07-01 12:25:11,341 schedular ========================================
+INFO 2026-07-01 12:25:11,342 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:25:16,400 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - CloudRegex | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:25:16,407 checker High response time for CloudRegex: 4109.46ms
+INFO 2026-07-01 12:25:16,496 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 4109.46ms
+ERROR 2026-07-01 12:25:18,958 checker Email delivery failed via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - CloudRegex | Error: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:25:18,960 checker High response time for CloudRegex: 3009.62ms
+INFO 2026-07-01 12:25:19,016 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 3009.62ms
+INFO 2026-07-01 12:25:33,326 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Whatsapp | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:25:33,329 checker High response time for Whatsapp: 9000.73ms
+INFO 2026-07-01 12:25:33,377 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 9000.73ms
+INFO 2026-07-01 12:25:44,827 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Chatgpt | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:25:44,829 checker High response time for Chatgpt: 6374.37ms
+INFO 2026-07-01 12:25:44,870 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 6374.37ms
+INFO 2026-07-01 12:25:54,929 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Instagram | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:25:54,930 checker High response time for Instagram: 4683.25ms
+INFO 2026-07-01 12:25:54,957 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 4683.25ms
+INFO 2026-07-01 12:25:54,957 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:25:54,970 schedular ========================================
+INFO 2026-07-01 12:25:54,970 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:25:54,971 schedular ========================================
+INFO 2026-07-01 12:29:26,939 schedular ========================================
+INFO 2026-07-01 12:29:26,940 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:29:26,940 schedular ========================================
+INFO 2026-07-01 12:29:26,970 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:29:27,007 schedular ========================================
+INFO 2026-07-01 12:29:27,007 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:29:27,008 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:29:27,008 schedular Next Run : 2026-07-01 17:29:26.912717+05:30
+INFO 2026-07-01 12:29:27,009 schedular ========================================
+INFO 2026-07-01 12:29:27,010 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:29:37,732 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - CloudRegex | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:29:37,735 checker High response time for CloudRegex: 4395.62ms
+INFO 2026-07-01 12:29:37,775 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 4395.62ms
+INFO 2026-07-01 12:29:51,553 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Whatsapp | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:29:51,556 checker High response time for Whatsapp: 8661.96ms
+INFO 2026-07-01 12:29:51,615 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 8661.96ms
+INFO 2026-07-01 12:30:08,960 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Chatgpt | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:30:08,963 checker High response time for Chatgpt: 12023.12ms
+INFO 2026-07-01 12:30:08,998 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 12023.12ms
+INFO 2026-07-01 12:30:21,040 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Instagram | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:30:21,043 checker High response time for Instagram: 7247.84ms
+INFO 2026-07-01 12:30:21,092 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 7247.84ms
+INFO 2026-07-01 12:30:21,093 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:30:21,119 schedular ========================================
+INFO 2026-07-01 12:30:21,120 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:30:21,121 schedular ========================================
+INFO 2026-07-01 12:30:39,134 schedular ========================================
+INFO 2026-07-01 12:30:39,135 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:30:39,142 schedular ========================================
+INFO 2026-07-01 12:30:39,159 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:30:39,195 schedular ========================================
+INFO 2026-07-01 12:30:39,196 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:30:39,196 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:30:39,197 schedular Next Run : 2026-07-01 17:30:39.094586+05:30
+INFO 2026-07-01 12:30:39,198 schedular ========================================
+INFO 2026-07-01 12:30:39,198 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:30:48,388 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - CloudRegex | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:30:48,391 checker High response time for CloudRegex: 4219.8ms
+INFO 2026-07-01 12:30:48,438 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 4219.8ms
+INFO 2026-07-01 12:31:01,492 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Whatsapp | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:31:01,495 checker High response time for Whatsapp: 8206.25ms
+INFO 2026-07-01 12:31:01,530 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 8206.25ms
+INFO 2026-07-01 12:31:18,182 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Chatgpt | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:31:18,185 checker High response time for Chatgpt: 10965.77ms
+INFO 2026-07-01 12:31:18,224 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 10965.77ms
+INFO 2026-07-01 12:31:29,857 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Instagram | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:31:29,859 checker High response time for Instagram: 6821.31ms
+INFO 2026-07-01 12:31:29,899 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 6821.31ms
+INFO 2026-07-01 12:31:29,899 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:31:29,918 schedular ========================================
+INFO 2026-07-01 12:31:29,918 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:31:29,919 schedular ========================================
+INFO 2026-07-01 12:33:00,993 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [TEST] Website Restored Successfully - CloudRegex | Recipients: ['dikshawayal@gmail.com']
+INFO 2026-07-01 12:38:59,043 schedular ========================================
+INFO 2026-07-01 12:38:59,044 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:38:59,045 schedular ========================================
+INFO 2026-07-01 12:38:59,061 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:38:59,083 schedular ========================================
+INFO 2026-07-01 12:38:59,083 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:38:59,083 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:38:59,084 schedular Next Run : 2026-07-01 17:38:59.036540+05:30
+INFO 2026-07-01 12:38:59,084 schedular ========================================
+INFO 2026-07-01 12:38:59,085 apps APScheduler started via AppConfig.ready()
+INFO 2026-07-01 12:39:05,465 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - CloudRegex | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:39:05,466 checker High response time for CloudRegex: 2064.06ms
+INFO 2026-07-01 12:39:05,511 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2064.06ms
+ERROR 2026-07-01 12:39:14,093 checker Email delivery failed via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Whatsapp | Error: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:39:14,094 checker High response time for Whatsapp: 4203.88ms
+INFO 2026-07-01 12:39:14,133 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 4203.88ms
+INFO 2026-07-01 12:39:22,808 checker Email delivered successfully via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Chatgpt | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-01 12:39:22,810 checker High response time for Chatgpt: 3638.48ms
+INFO 2026-07-01 12:39:22,851 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 3638.48ms
+ERROR 2026-07-01 12:39:30,271 checker Email delivery failed via sandbox.smtp.mailtrap.io | Subject: [WARN] High Response Time Detected - Instagram | Error: (550, b'5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing')
+WARNING 2026-07-01 12:39:30,275 checker High response time for Instagram: 3029.23ms
+INFO 2026-07-01 12:39:30,321 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3029.23ms
+INFO 2026-07-01 12:39:30,322 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:39:30,387 schedular ========================================
+INFO 2026-07-01 12:39:30,387 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:39:30,388 schedular ========================================
+INFO 2026-07-01 12:40:36,131 schedular ========================================
+INFO 2026-07-01 12:40:36,132 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:40:36,140 schedular ========================================
+INFO 2026-07-01 12:40:36,164 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:40:36,189 schedular ========================================
+INFO 2026-07-01 12:40:36,190 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:40:36,190 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:40:36,191 schedular Next Run : 2026-07-01 17:40:36.048979+05:30
+INFO 2026-07-01 12:40:36,192 schedular ========================================
+INFO 2026-07-01 12:40:36,192 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:40:40,407 checker High response time for CloudRegex: 4180.12ms
+INFO 2026-07-01 12:40:40,449 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 4180.12ms
+WARNING 2026-07-01 12:40:50,337 checker High response time for Whatsapp: 9846.07ms
+INFO 2026-07-01 12:40:50,403 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 9846.07ms
+WARNING 2026-07-01 12:40:59,326 checker High response time for Chatgpt: 8880.42ms
+INFO 2026-07-01 12:40:59,365 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 8880.42ms
+WARNING 2026-07-01 12:41:07,390 checker High response time for Instagram: 7992.22ms
+INFO 2026-07-01 12:41:07,422 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 7992.22ms
+INFO 2026-07-01 12:41:07,423 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:41:07,442 schedular ========================================
+INFO 2026-07-01 12:41:07,442 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:41:07,443 schedular ========================================
+INFO 2026-07-01 12:41:18,545 schedular ========================================
+INFO 2026-07-01 12:41:18,546 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:41:18,547 schedular ========================================
+INFO 2026-07-01 12:41:18,565 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:41:18,594 schedular ========================================
+INFO 2026-07-01 12:41:18,594 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:41:18,595 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:41:18,595 schedular Next Run : 2026-07-01 17:41:18.514551+05:30
+INFO 2026-07-01 12:41:18,596 schedular ========================================
+INFO 2026-07-01 12:41:18,596 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:41:24,824 checker High response time for CloudRegex: 6220.78ms
+INFO 2026-07-01 12:41:24,867 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 6220.78ms
+WARNING 2026-07-01 12:41:30,269 checker High response time for Whatsapp: 5369.11ms
+INFO 2026-07-01 12:41:30,307 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 5369.11ms
+WARNING 2026-07-01 12:41:33,952 checker High response time for Chatgpt: 3618.28ms
+INFO 2026-07-01 12:41:33,974 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 3618.28ms
+WARNING 2026-07-01 12:41:38,550 checker High response time for Instagram: 4541.99ms
+INFO 2026-07-01 12:41:38,584 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 4541.99ms
+INFO 2026-07-01 12:41:38,585 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:41:38,604 schedular ========================================
+INFO 2026-07-01 12:41:38,605 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:41:38,605 schedular ========================================
+INFO 2026-07-01 12:42:13,734 schedular ========================================
+INFO 2026-07-01 12:42:13,735 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:42:13,736 schedular ========================================
+INFO 2026-07-01 12:42:13,758 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:42:13,800 schedular ========================================
+INFO 2026-07-01 12:42:13,801 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:42:13,801 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:42:13,802 schedular Next Run : 2026-07-01 17:42:13.581007+05:30
+INFO 2026-07-01 12:42:13,803 schedular ========================================
+INFO 2026-07-01 12:42:13,804 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:42:17,555 checker High response time for CloudRegex: 3757.5ms
+INFO 2026-07-01 12:42:17,589 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 3757.5ms
+WARNING 2026-07-01 12:42:24,352 checker High response time for Whatsapp: 6725.82ms
+INFO 2026-07-01 12:42:24,391 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 6725.82ms
+WARNING 2026-07-01 12:42:32,080 checker High response time for Chatgpt: 7654.81ms
+INFO 2026-07-01 12:42:32,117 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 7654.81ms
+WARNING 2026-07-01 12:42:38,831 checker High response time for Instagram: 6681.65ms
+INFO 2026-07-01 12:42:38,865 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 6681.65ms
+INFO 2026-07-01 12:42:38,866 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:42:38,887 schedular ========================================
+INFO 2026-07-01 12:42:38,887 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:42:38,888 schedular ========================================
+INFO 2026-07-01 12:42:52,589 schedular ========================================
+INFO 2026-07-01 12:42:52,590 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:42:52,599 schedular ========================================
+INFO 2026-07-01 12:42:52,619 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:42:52,651 schedular ========================================
+INFO 2026-07-01 12:42:52,652 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:42:52,652 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:42:52,653 schedular Next Run : 2026-07-01 17:42:52.550998+05:30
+INFO 2026-07-01 12:42:52,654 schedular ========================================
+INFO 2026-07-01 12:42:52,654 apps APScheduler started via AppConfig.ready()
+WARNING 2026-07-01 12:42:55,951 checker High response time for CloudRegex: 3295.16ms
+INFO 2026-07-01 12:42:55,985 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 3295.16ms
+WARNING 2026-07-01 12:43:02,616 checker High response time for Whatsapp: 6603.48ms
+INFO 2026-07-01 12:43:02,644 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 6603.48ms
+WARNING 2026-07-01 12:43:06,351 checker High response time for Chatgpt: 3666.18ms
+INFO 2026-07-01 12:43:06,393 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 3666.18ms
+WARNING 2026-07-01 12:43:10,305 checker High response time for Instagram: 3878.48ms
+INFO 2026-07-01 12:43:10,345 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3878.48ms
+INFO 2026-07-01 12:43:10,346 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:43:10,365 schedular ========================================
+INFO 2026-07-01 12:43:10,366 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:43:10,367 schedular ========================================
+WARNING 2026-07-01 12:44:28,925 checker High response time for CloudRegex: 7298.51ms
+WARNING 2026-07-01 12:44:45,298 checker High response time for Whatsapp: 16285.54ms
+WARNING 2026-07-01 12:45:03,529 checker High response time for Chatgpt: 18128.91ms
+WARNING 2026-07-01 12:45:09,918 checker High response time for Instagram: 6274.58ms
+INFO 2026-07-01 12:57:16,083 schedular ========================================
+INFO 2026-07-01 12:57:16,084 schedular Scheduled Website Check Started
+INFO 2026-07-01 12:57:16,084 schedular ========================================
+INFO 2026-07-01 12:57:16,094 checker Starting check of all websites (4 total)
+INFO 2026-07-01 12:57:16,110 schedular ========================================
+INFO 2026-07-01 12:57:16,110 schedular APScheduler Started Successfully
+INFO 2026-07-01 12:57:16,110 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-01 12:57:16,110 schedular Next Run : 2026-07-01 17:57:16.078533+05:30
+INFO 2026-07-01 12:57:16,111 schedular ========================================
+INFO 2026-07-01 12:57:16,111 apps APScheduler started successfully.
+WARNING 2026-07-01 12:57:17,575 checker High response time for CloudRegex: 1439.86ms
+INFO 2026-07-01 12:57:17,612 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1439.86ms
+WARNING 2026-07-01 12:57:20,464 checker High response time for Whatsapp: 2832.23ms
+INFO 2026-07-01 12:57:20,487 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2832.23ms
+WARNING 2026-07-01 12:57:24,113 checker High response time for Chatgpt: 3599.99ms
+INFO 2026-07-01 12:57:24,143 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 3599.99ms
+WARNING 2026-07-01 12:57:28,738 checker High response time for Instagram: 4569.06ms
+INFO 2026-07-01 12:57:28,765 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 4569.06ms
+INFO 2026-07-01 12:57:28,765 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-01 12:57:28,780 schedular ========================================
+INFO 2026-07-01 12:57:28,781 schedular Scheduled Website Check Finished
+INFO 2026-07-01 12:57:28,781 schedular ========================================
+INFO 2026-07-08 10:35:06,438 schedular ========================================
+INFO 2026-07-08 10:35:06,443 schedular Scheduled Website Check Started
+INFO 2026-07-08 10:35:06,443 schedular ========================================
+INFO 2026-07-08 10:35:06,559 checker Starting check of all websites (4 total)
+INFO 2026-07-08 10:35:06,571 schedular ========================================
+INFO 2026-07-08 10:35:06,571 schedular APScheduler Started Successfully
+INFO 2026-07-08 10:35:06,571 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 10:35:06,571 schedular Next Run : 2026-07-08 15:35:06.419915+05:30
+INFO 2026-07-08 10:35:06,572 schedular ========================================
+INFO 2026-07-08 10:35:06,572 apps APScheduler started successfully.
+WARNING 2026-07-08 10:35:09,062 checker High response time for CloudRegex: 2384.5ms
+INFO 2026-07-08 10:35:09,080 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2384.5ms
+WARNING 2026-07-08 10:35:19,443 checker High response time for Whatsapp: 10349.6ms
+INFO 2026-07-08 10:35:19,459 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 10349.6ms
+WARNING 2026-07-08 10:35:23,026 checker High response time for Chatgpt: 3554.29ms
+INFO 2026-07-08 10:35:23,043 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 3554.29ms
+WARNING 2026-07-08 10:35:26,764 checker High response time for Instagram: 3706.72ms
+INFO 2026-07-08 10:35:26,781 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 3706.72ms
+INFO 2026-07-08 10:35:26,781 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 10:35:26,793 schedular ========================================
+INFO 2026-07-08 10:35:26,794 schedular Scheduled Website Check Finished
+INFO 2026-07-08 10:35:26,794 schedular ========================================
+ERROR 2026-07-08 10:46:50,820 apps Scheduler failed to start: expected an indented block after function definition on line 24 (schedular.py, line 25)
+INFO 2026-07-08 10:49:20,544 schedular ========================================
+INFO 2026-07-08 10:49:20,545 schedular Scheduled Website Check Started
+INFO 2026-07-08 10:49:20,546 schedular ========================================
+INFO 2026-07-08 10:49:20,621 checker Starting check of all websites (4 total)
+INFO 2026-07-08 10:49:20,669 schedular ========================================
+INFO 2026-07-08 10:49:20,670 schedular APScheduler Started Successfully
+INFO 2026-07-08 10:49:20,673 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 10:49:20,673 schedular Next Run : 2026-07-08 15:49:20.460866+05:30
+INFO 2026-07-08 10:49:20,673 schedular ========================================
+INFO 2026-07-08 10:49:20,674 apps APScheduler started successfully.
+WARNING 2026-07-08 10:49:22,923 checker High response time for CloudRegex: 2277.78ms
+INFO 2026-07-08 10:49:22,952 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 2277.78ms
+WARNING 2026-07-08 10:49:25,179 checker High response time for Whatsapp: 2215.31ms
+INFO 2026-07-08 10:49:25,195 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2215.31ms
+WARNING 2026-07-08 10:49:27,884 checker High response time for Chatgpt: 2675.24ms
+INFO 2026-07-08 10:49:27,902 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2675.24ms
+WARNING 2026-07-08 10:49:30,348 checker High response time for Instagram: 2434.55ms
+INFO 2026-07-08 10:49:30,362 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2434.55ms
+INFO 2026-07-08 10:49:30,362 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 10:49:30,383 schedular ========================================
+INFO 2026-07-08 10:49:30,383 schedular Scheduled Website Check Finished
+INFO 2026-07-08 10:49:30,383 schedular ========================================
+INFO 2026-07-08 10:49:53,296 schedular ========================================
+INFO 2026-07-08 10:49:53,297 schedular Scheduled Website Check Started
+INFO 2026-07-08 10:49:53,297 schedular ========================================
+INFO 2026-07-08 10:49:53,307 checker Starting check of all websites (4 total)
+INFO 2026-07-08 10:49:53,317 schedular ========================================
+INFO 2026-07-08 10:49:53,317 schedular APScheduler Started Successfully
+INFO 2026-07-08 10:49:53,318 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 10:49:53,318 schedular Next Run : 2026-07-08 15:49:53.292560+05:30
+INFO 2026-07-08 10:49:53,318 schedular ========================================
+INFO 2026-07-08 10:49:53,318 apps APScheduler started successfully.
+WARNING 2026-07-08 10:49:54,774 checker High response time for CloudRegex: 1451.52ms
+INFO 2026-07-08 10:49:54,800 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1451.52ms
+WARNING 2026-07-08 10:49:58,768 checker High response time for Whatsapp: 3956.26ms
+INFO 2026-07-08 10:49:58,783 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3956.26ms
+WARNING 2026-07-08 10:50:00,857 checker High response time for Chatgpt: 2062.67ms
+INFO 2026-07-08 10:50:00,871 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2062.67ms
+WARNING 2026-07-08 10:50:03,611 checker High response time for Instagram: 2729.47ms
+INFO 2026-07-08 10:50:03,624 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2729.47ms
+INFO 2026-07-08 10:50:03,624 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 10:50:03,631 schedular ========================================
+INFO 2026-07-08 10:50:03,631 schedular Scheduled Website Check Finished
+INFO 2026-07-08 10:50:03,631 schedular ========================================
+ERROR 2026-07-08 10:51:23,004 apps Scheduler failed to start: unindent does not match any outer indentation level (schedular.py, line 36)
+INFO 2026-07-08 10:54:44,907 schedular ========================================
+INFO 2026-07-08 10:54:44,908 schedular Scheduled Website Check Started
+INFO 2026-07-08 10:54:44,908 schedular ========================================
+INFO 2026-07-08 10:54:44,915 checker Starting check of all websites (4 total)
+INFO 2026-07-08 10:54:44,926 schedular ========================================
+INFO 2026-07-08 10:54:44,926 schedular APScheduler Started Successfully
+INFO 2026-07-08 10:54:44,926 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 10:54:44,927 schedular Next Run : 2026-07-08 15:54:44.903771+05:30
+INFO 2026-07-08 10:54:44,927 schedular ========================================
+INFO 2026-07-08 10:54:44,927 apps APScheduler started successfully.
+INFO 2026-07-08 10:54:45,753 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 813.44ms
+WARNING 2026-07-08 10:54:47,538 checker High response time for Whatsapp: 1771.37ms
+INFO 2026-07-08 10:54:47,563 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 1771.37ms
+WARNING 2026-07-08 10:54:49,389 checker High response time for Chatgpt: 1816.24ms
+INFO 2026-07-08 10:54:49,404 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1816.24ms
+WARNING 2026-07-08 10:54:51,283 checker High response time for Instagram: 1868.31ms
+INFO 2026-07-08 10:54:51,297 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 1868.31ms
+INFO 2026-07-08 10:54:51,297 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 10:54:51,304 schedular ========================================
+INFO 2026-07-08 10:54:51,304 schedular Scheduled Website Check Finished
+INFO 2026-07-08 10:54:51,304 schedular ========================================
+INFO 2026-07-08 10:58:41,228 schedular ========================================
+INFO 2026-07-08 10:58:41,229 schedular Scheduled Website Check Started
+INFO 2026-07-08 10:58:41,229 schedular ========================================
+INFO 2026-07-08 10:58:41,239 checker Starting check of all websites (4 total)
+INFO 2026-07-08 10:58:41,253 schedular ========================================
+INFO 2026-07-08 10:58:41,253 schedular APScheduler Started Successfully
+INFO 2026-07-08 10:58:41,253 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 10:58:41,254 schedular Next Run : 2026-07-08 10:28:41.222687+00:00
+INFO 2026-07-08 10:58:41,254 schedular ========================================
+INFO 2026-07-08 10:58:41,255 apps APScheduler started successfully.
+WARNING 2026-07-08 10:58:42,480 checker High response time for CloudRegex: 1226.26ms
+INFO 2026-07-08 10:58:42,501 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1226.26ms
+WARNING 2026-07-08 10:58:44,987 checker High response time for Whatsapp: 2474.45ms
+INFO 2026-07-08 10:58:45,001 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2474.45ms
+WARNING 2026-07-08 10:58:46,659 checker High response time for Chatgpt: 1646.17ms
+INFO 2026-07-08 10:58:46,672 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1646.17ms
+WARNING 2026-07-08 10:58:48,730 checker High response time for Instagram: 2046.7ms
+INFO 2026-07-08 10:58:48,747 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2046.7ms
+INFO 2026-07-08 10:58:48,747 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 10:58:48,755 schedular ========================================
+INFO 2026-07-08 10:58:48,755 schedular Scheduled Website Check Finished
+INFO 2026-07-08 10:58:48,755 schedular ========================================
+INFO 2026-07-08 10:59:16,226 schedular ========================================
+INFO 2026-07-08 10:59:16,227 schedular Scheduled Website Check Started
+INFO 2026-07-08 10:59:16,227 schedular ========================================
+INFO 2026-07-08 10:59:16,239 checker Starting check of all websites (4 total)
+INFO 2026-07-08 10:59:16,252 schedular ========================================
+INFO 2026-07-08 10:59:16,252 schedular APScheduler Started Successfully
+INFO 2026-07-08 10:59:16,252 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 10:59:16,253 schedular Next Run : 2026-07-08 10:29:16.221907+00:00
+INFO 2026-07-08 10:59:16,253 schedular ========================================
+INFO 2026-07-08 10:59:16,253 apps APScheduler started successfully.
+WARNING 2026-07-08 10:59:17,717 checker High response time for CloudRegex: 1458.94ms
+INFO 2026-07-08 10:59:17,739 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1458.94ms
+WARNING 2026-07-08 10:59:20,529 checker High response time for Whatsapp: 2777.79ms
+INFO 2026-07-08 10:59:20,546 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2777.79ms
+WARNING 2026-07-08 10:59:22,581 checker High response time for Chatgpt: 2023.91ms
+INFO 2026-07-08 10:59:22,594 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2023.91ms
+WARNING 2026-07-08 10:59:25,303 checker High response time for Instagram: 2688.1ms
+INFO 2026-07-08 10:59:25,320 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2688.1ms
+INFO 2026-07-08 10:59:25,320 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 10:59:25,331 schedular ========================================
+INFO 2026-07-08 10:59:25,331 schedular Scheduled Website Check Finished
+INFO 2026-07-08 10:59:25,332 schedular ========================================
+INFO 2026-07-08 10:59:27,403 schedular ========================================
+INFO 2026-07-08 10:59:27,404 schedular Scheduled Website Check Started
+INFO 2026-07-08 10:59:27,404 schedular ========================================
+INFO 2026-07-08 10:59:27,415 checker Starting check of all websites (4 total)
+INFO 2026-07-08 10:59:27,431 schedular ========================================
+INFO 2026-07-08 10:59:27,431 schedular APScheduler Started Successfully
+INFO 2026-07-08 10:59:27,431 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 10:59:27,432 schedular Next Run : 2026-07-08 10:29:27.398518+00:00
+INFO 2026-07-08 10:59:27,432 schedular ========================================
+INFO 2026-07-08 10:59:27,433 apps APScheduler started successfully.
+WARNING 2026-07-08 10:59:28,682 checker High response time for CloudRegex: 1252.77ms
+INFO 2026-07-08 10:59:28,701 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1252.77ms
+WARNING 2026-07-08 10:59:31,683 checker High response time for Whatsapp: 2969.87ms
+INFO 2026-07-08 10:59:31,696 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2969.87ms
+WARNING 2026-07-08 10:59:33,714 checker High response time for Chatgpt: 2007.57ms
+INFO 2026-07-08 10:59:33,729 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2007.57ms
+WARNING 2026-07-08 10:59:35,932 checker High response time for Instagram: 2186.82ms
+INFO 2026-07-08 10:59:35,949 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2186.82ms
+INFO 2026-07-08 10:59:35,949 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 10:59:35,959 schedular ========================================
+INFO 2026-07-08 10:59:35,959 schedular Scheduled Website Check Finished
+INFO 2026-07-08 10:59:35,959 schedular ========================================
+INFO 2026-07-08 11:00:06,979 schedular ========================================
+INFO 2026-07-08 11:00:06,980 schedular Scheduled Website Check Started
+INFO 2026-07-08 11:00:06,980 schedular ========================================
+INFO 2026-07-08 11:00:06,989 checker Starting check of all websites (4 total)
+INFO 2026-07-08 11:00:07,001 schedular ========================================
+INFO 2026-07-08 11:00:07,002 schedular APScheduler Started Successfully
+INFO 2026-07-08 11:00:07,002 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 11:00:07,003 schedular Next Run : 2026-07-08 10:30:06.975313+00:00
+INFO 2026-07-08 11:00:07,003 schedular ========================================
+INFO 2026-07-08 11:00:07,003 apps APScheduler started successfully.
+WARNING 2026-07-08 11:00:08,016 checker High response time for CloudRegex: 1015.61ms
+INFO 2026-07-08 11:00:08,035 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1015.61ms
+WARNING 2026-07-08 11:00:10,360 checker High response time for Whatsapp: 2312.46ms
+INFO 2026-07-08 11:00:10,375 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2312.46ms
+WARNING 2026-07-08 11:00:12,625 checker High response time for Chatgpt: 2239.57ms
+INFO 2026-07-08 11:00:12,639 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 2239.57ms
+WARNING 2026-07-08 11:00:14,771 checker High response time for Instagram: 2122.77ms
+INFO 2026-07-08 11:00:14,782 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 2122.77ms
+INFO 2026-07-08 11:00:14,782 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 11:00:14,788 schedular ========================================
+INFO 2026-07-08 11:00:14,788 schedular Scheduled Website Check Finished
+INFO 2026-07-08 11:00:14,788 schedular ========================================
+INFO 2026-07-08 11:18:10,728 schedular ========================================
+INFO 2026-07-08 11:18:10,729 schedular Scheduled Website Check Started
+INFO 2026-07-08 11:18:10,730 schedular ========================================
+INFO 2026-07-08 11:18:10,754 checker Starting check of all websites (4 total)
+INFO 2026-07-08 11:18:10,766 schedular ========================================
+INFO 2026-07-08 11:18:10,766 schedular APScheduler Started Successfully
+INFO 2026-07-08 11:18:10,766 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 11:18:10,767 schedular Next Run : 2026-07-08 10:48:10.725327+00:00
+INFO 2026-07-08 11:18:10,767 schedular ========================================
+INFO 2026-07-08 11:18:10,767 apps APScheduler started successfully.
+INFO 2026-07-08 11:18:11,674 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 894.47ms
+WARNING 2026-07-08 11:18:14,064 checker High response time for Whatsapp: 2379.54ms
+INFO 2026-07-08 11:18:14,079 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2379.54ms
+WARNING 2026-07-08 11:18:16,053 checker High response time for Chatgpt: 1962.93ms
+INFO 2026-07-08 11:18:16,067 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 1962.93ms
+WARNING 2026-07-08 11:18:23,619 checker High response time for Instagram: 7540.32ms
+INFO 2026-07-08 11:18:23,633 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 7540.32ms
+INFO 2026-07-08 11:18:23,633 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 11:18:23,641 schedular ========================================
+INFO 2026-07-08 11:18:23,641 schedular Scheduled Website Check Finished
+INFO 2026-07-08 11:18:23,641 schedular ========================================
+INFO 2026-07-08 11:42:32,594 schedular ========================================
+INFO 2026-07-08 11:42:32,594 schedular Scheduled Website Check Started
+INFO 2026-07-08 11:42:32,595 schedular ========================================
+INFO 2026-07-08 11:42:32,608 checker Starting check of all websites (4 total)
+INFO 2026-07-08 11:42:32,648 schedular ========================================
+INFO 2026-07-08 11:42:32,648 schedular APScheduler Started Successfully
+INFO 2026-07-08 11:42:32,648 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 11:42:32,649 schedular Next Run : 2026-07-08 11:12:32.587753+00:00
+INFO 2026-07-08 11:42:32,652 schedular ========================================
+INFO 2026-07-08 11:42:32,652 apps APScheduler started successfully.
+WARNING 2026-07-08 11:42:36,134 checker High response time for CloudRegex: 3511.32ms
+INFO 2026-07-08 11:42:36,156 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 3511.32ms
+WARNING 2026-07-08 11:42:39,133 checker High response time for Whatsapp: 2945.19ms
+INFO 2026-07-08 11:42:39,169 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 2945.19ms
+WARNING 2026-07-08 11:42:50,493 checker High response time for Chatgpt: 11297.28ms
+INFO 2026-07-08 11:42:50,521 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 11297.28ms
+WARNING 2026-07-08 11:42:57,871 checker High response time for Instagram: 7325.68ms
+INFO 2026-07-08 11:42:57,903 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 7325.68ms
+INFO 2026-07-08 11:42:57,903 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 11:42:57,920 schedular ========================================
+INFO 2026-07-08 11:42:57,920 schedular Scheduled Website Check Finished
+INFO 2026-07-08 11:42:57,920 schedular ========================================
+INFO 2026-07-08 12:01:56,116 schedular ========================================
+INFO 2026-07-08 12:01:56,117 schedular Scheduled Website Check Started
+INFO 2026-07-08 12:01:56,117 schedular ========================================
+INFO 2026-07-08 12:01:56,132 checker Starting check of all websites (4 total)
+INFO 2026-07-08 12:01:56,153 schedular ========================================
+INFO 2026-07-08 12:01:56,154 schedular APScheduler Started Successfully
+INFO 2026-07-08 12:01:56,154 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 12:01:56,154 schedular Next Run : 2026-07-08 11:31:56.110017+00:00
+INFO 2026-07-08 12:01:56,155 schedular ========================================
+INFO 2026-07-08 12:01:56,156 apps APScheduler started successfully.
+WARNING 2026-07-08 12:01:57,684 checker High response time for CloudRegex: 1531.02ms
+INFO 2026-07-08 12:01:57,704 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1531.02ms
+WARNING 2026-07-08 12:02:01,831 checker High response time for Whatsapp: 4108.65ms
+INFO 2026-07-08 12:02:01,851 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 4108.65ms
+WARNING 2026-07-08 12:02:05,538 checker High response time for Chatgpt: 3671.05ms
+INFO 2026-07-08 12:02:05,562 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 3671.05ms
+WARNING 2026-07-08 12:02:09,699 checker High response time for Instagram: 4116.38ms
+INFO 2026-07-08 12:02:09,723 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 4116.38ms
+INFO 2026-07-08 12:02:09,724 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 12:02:09,738 schedular ========================================
+INFO 2026-07-08 12:02:09,738 schedular Scheduled Website Check Finished
+INFO 2026-07-08 12:02:09,738 schedular ========================================
+INFO 2026-07-08 12:12:15,171 schedular ========================================
+INFO 2026-07-08 12:12:15,171 schedular Scheduled Website Check Started
+INFO 2026-07-08 12:12:15,172 schedular ========================================
+INFO 2026-07-08 12:12:15,191 checker Starting check of all websites (4 total)
+INFO 2026-07-08 12:12:15,237 schedular ========================================
+INFO 2026-07-08 12:12:15,237 schedular APScheduler Started Successfully
+INFO 2026-07-08 12:12:15,237 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 12:12:15,238 schedular Next Run : 2026-07-08 11:42:15.163832+00:00
+INFO 2026-07-08 12:12:15,238 schedular ========================================
+INFO 2026-07-08 12:12:15,238 apps APScheduler started successfully.
+WARNING 2026-07-08 12:12:16,936 checker High response time for CloudRegex: 1721.52ms
+INFO 2026-07-08 12:12:16,956 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 1721.52ms
+WARNING 2026-07-08 12:12:20,667 checker High response time for Whatsapp: 3688.34ms
+INFO 2026-07-08 12:12:20,690 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 3688.34ms
+WARNING 2026-07-08 12:12:26,023 checker High response time for Chatgpt: 5305.39ms
+INFO 2026-07-08 12:12:26,054 checker Checked Chatgpt (https://www.chat.com) - Status: UP, Response: 5305.39ms
+WARNING 2026-07-08 12:12:32,980 checker High response time for Instagram: 6895.99ms
+INFO 2026-07-08 12:12:33,010 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 6895.99ms
+INFO 2026-07-08 12:12:33,010 checker Check complete - Total: 4, UP: 4, DOWN: 0, Errors: 0
+INFO 2026-07-08 12:12:33,029 schedular ========================================
+INFO 2026-07-08 12:12:33,030 schedular Scheduled Website Check Finished
+INFO 2026-07-08 12:12:33,030 schedular ========================================
+WARNING 2026-07-08 12:18:32,332 checker High response time for CloudRegex: 1835.93ms
+WARNING 2026-07-08 12:18:36,277 checker High response time for Whatsapp: 3908.31ms
+INFO 2026-07-08 12:18:45,507 checker Email delivered successfully via smtp.gmail.com | Subject: [ALERT] Critical Website Down Alert - Chatgpt | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-08 12:18:45,508 checker Status change UP->DOWN for Chatgpt
+WARNING 2026-07-08 12:18:51,138 checker High response time for Instagram: 5585.98ms
+INFO 2026-07-08 12:37:33,935 schedular ========================================
+INFO 2026-07-08 12:37:33,947 schedular Scheduled Website Check Started
+INFO 2026-07-08 12:37:33,950 schedular ========================================
+INFO 2026-07-08 12:37:33,967 checker Starting check of all websites (4 total)
+INFO 2026-07-08 12:37:34,003 schedular ========================================
+INFO 2026-07-08 12:37:34,005 schedular APScheduler Started Successfully
+INFO 2026-07-08 12:37:34,006 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 12:37:34,007 schedular Next Run : 2026-07-08 12:07:33.887640+00:00
+INFO 2026-07-08 12:37:34,007 schedular ========================================
+INFO 2026-07-08 12:37:34,008 apps APScheduler started successfully.
+WARNING 2026-07-08 12:37:38,676 checker High response time for CloudRegex: 4686.99ms
+INFO 2026-07-08 12:37:38,700 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 4686.99ms
+WARNING 2026-07-08 12:37:51,826 checker High response time for Whatsapp: 13105.56ms
+INFO 2026-07-08 12:37:51,848 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 13105.56ms
+WARNING 2026-07-08 12:37:57,609 checker Still DOWN for Chatgpt
+INFO 2026-07-08 12:37:57,670 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-08 12:38:03,380 checker High response time for Instagram: 5691.57ms
+INFO 2026-07-08 12:38:03,403 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 5691.57ms
+INFO 2026-07-08 12:38:03,404 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-07-08 12:38:03,416 schedular ========================================
+INFO 2026-07-08 12:38:03,416 schedular Scheduled Website Check Finished
+INFO 2026-07-08 12:38:03,417 schedular ========================================
+INFO 2026-07-08 12:38:56,652 schedular ========================================
+INFO 2026-07-08 12:38:56,653 schedular Scheduled Website Check Started
+INFO 2026-07-08 12:38:56,653 schedular ========================================
+INFO 2026-07-08 12:38:56,696 checker Starting check of all websites (4 total)
+INFO 2026-07-08 12:38:56,743 schedular ========================================
+INFO 2026-07-08 12:38:56,743 schedular APScheduler Started Successfully
+INFO 2026-07-08 12:38:56,743 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-08 12:38:56,744 schedular Next Run : 2026-07-08 12:08:56.304280+00:00
+INFO 2026-07-08 12:38:56,744 schedular ========================================
+INFO 2026-07-08 12:38:56,744 apps APScheduler started successfully.
+WARNING 2026-07-08 12:39:01,002 checker High response time for CloudRegex: 4286.99ms
+INFO 2026-07-08 12:39:01,023 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 4286.99ms
+WARNING 2026-07-08 12:39:08,838 checker High response time for Whatsapp: 7786.69ms
+INFO 2026-07-08 12:39:08,861 checker Checked Whatsapp (https://whatsapp.com) - Status: UP, Response: 7786.69ms
+WARNING 2026-07-08 12:39:13,250 checker Still DOWN for Chatgpt
+INFO 2026-07-08 12:39:13,603 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-08 12:39:21,455 checker High response time for Instagram: 7825.66ms
+INFO 2026-07-08 12:39:21,477 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 7825.66ms
+INFO 2026-07-08 12:39:21,478 checker Check complete - Total: 4, UP: 3, DOWN: 1, Errors: 0
+INFO 2026-07-08 12:39:21,499 schedular ========================================
+INFO 2026-07-08 12:39:21,499 schedular Scheduled Website Check Finished
+INFO 2026-07-08 12:39:21,500 schedular ========================================
+WARNING 2026-07-08 12:39:41,583 checker High response time for CloudRegex: 2237.96ms
+WARNING 2026-07-08 12:39:49,174 checker High response time for Whatsapp: 7528.94ms
+WARNING 2026-07-08 12:39:52,968 checker Still DOWN for Chatgpt
+WARNING 2026-07-08 12:39:59,374 checker High response time for Instagram: 6335.95ms
+WARNING 2026-07-08 12:40:13,408 checker High response time for CloudRegex: 3294.67ms
+WARNING 2026-07-08 12:40:21,940 checker High response time for Whatsapp: 8426.92ms
+WARNING 2026-07-08 12:40:25,924 checker Still DOWN for Chatgpt
+WARNING 2026-07-08 12:40:34,684 checker High response time for Instagram: 8606.05ms
+WARNING 2026-07-08 12:41:27,664 checker High response time for CloudRegex: 1934.55ms
+WARNING 2026-07-08 12:41:30,632 checker High response time for Whatsapp: 2904.72ms
+WARNING 2026-07-08 12:41:35,911 checker Still DOWN for Chatgpt
+WARNING 2026-07-08 12:41:42,846 checker High response time for Instagram: 6877.42ms
+WARNING 2026-07-08 12:42:54,375 checker High response time for CloudRegex: 3096.23ms
+INFO 2026-07-08 12:42:58,685 checker Email delivered successfully via smtp.gmail.com | Subject: [ALERT] Critical Website Down Alert - Whatsapp | Recipients: ['dikshawayal@gmail.com']
+WARNING 2026-07-08 12:42:58,687 checker Status change UP->DOWN for Whatsapp
+WARNING 2026-07-08 12:43:02,633 checker Still DOWN for Chatgpt
+WARNING 2026-07-08 12:43:10,699 checker High response time for Instagram: 7945.46ms

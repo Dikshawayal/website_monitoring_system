@@ -1,33 +1,37 @@
+import logging
 from django.core.management.base import BaseCommand
-from monitor.models import Website
-import requests
+from monitor.checker import check_all_websites
+
+logger = logging.getLogger(__name__)
 
 
 class Command(BaseCommand):
-    help = "Check website status"
+    help = "Check all monitored websites and update their status"
 
-    def handle(self, *args, **kwargs):
-        websites = Website.objects.all()
+    def handle(self, *args, **options):
+        self.stdout.write(self.style.NOTICE("Starting website monitoring check..."))
 
-        for website in websites:
-            try:
-                response = requests.get(
-                    website.url,
-                    timeout=10
-                )
+        try:
+            stats = check_all_websites()
 
-                if response.status_code == 200:
-                    website.status = "UP"
-                else:
-                    website.status = "DOWN"
+            self.stdout.write(self.style.SUCCESS(
+                f"Check complete — Total: {stats['total']}, "
+                f"UP: {stats['up']}, "
+                f"DOWN: {stats['down']}"
+            ))
 
-            except:
-                website.status = "DOWN"
+            if stats['errors']:
+                self.stdout.write(self.style.WARNING(
+                    f"Errors encountered: {stats['errors']}"
+                ))
 
-            website.save()
+            if stats['down']:
+                self.stdout.write(self.style.WARNING(
+                    f"{stats['down']} website(s) are DOWN"
+                ))
 
-        self.stdout.write(
-            self.style.SUCCESS(
-                "Website checks completed"
-            )
-        )
+        except Exception as e:
+            logger.exception("Monitoring check failed: %s", str(e))
+            self.stdout.write(self.style.ERROR(
+                f"Monitoring check failed: {e}"
+            ))

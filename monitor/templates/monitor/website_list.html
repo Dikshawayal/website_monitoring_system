@@ -74,22 +74,63 @@
                         {% endif %}
                     </td>
                     <td>
-                        <div class="d-flex gap-1">
-                            <a href="{% url 'edit_website' website.id %}"
-                               class="btn btn-sm btn-outline-secondary">
-                                <i class="bi bi-pencil"></i>
-                            </a>
-                            <a href="{% url 'website_logs' website.id %}"
-                               class="btn btn-sm btn-outline-secondary">
-                                <i class="bi bi-clock-history"></i>
-                            </a>
-                            <a href="{% url 'delete_website' website.id %}"
-                               class="btn btn-sm" style="background:rgba(239,68,68,0.12); color:var(--danger); border:none; border-radius:6px; padding:4px 10px; font-size:12px; font-weight:600;">
-                                <i class="bi bi-trash"></i>
-                            </a>
-                        </div>
-                    </td>
-                </tr>
+    <div class="dropdown">
+
+        <button class="btn btn-sm btn-primary dropdown-toggle"
+                type="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false">
+            <i class="bi bi-three-dots"></i> Actions
+        </button>
+
+        <ul class="dropdown-menu dropdown-menu-end shadow">
+
+            <li>
+                <a class="dropdown-item"
+                   href="{% url 'edit_website' website.id %}">
+                    <i class="bi bi-pencil-square me-2"></i>
+                    Edit Website
+                </a>
+            </li>
+
+            <li>
+                <a class="dropdown-item"
+                   href="{% url 'check_single_website' website.id %}">
+                    <i class="bi bi-arrow-repeat me-2"></i>
+                    Refresh Website
+                </a>
+            </li>
+
+            <li>
+                <a class="dropdown-item"
+                   href="{% url 'website_logs' website.id %}">
+                    <i class="bi bi-clock-history me-2"></i>
+                    View Logs
+                </a>
+            </li>
+
+            <li><hr class="dropdown-divider"></li>
+
+            <li>
+                <form action="{% url 'delete_website' website.id %}"
+                      method="POST"
+                      onsubmit="return confirm('Are you sure you want to delete this website?');">
+
+                    {% csrf_token %}
+
+                    <button type="submit"
+                            class="dropdown-item text-danger">
+                        <i class="bi bi-trash me-2"></i>
+                        Delete Website
+                    </button>
+
+                </form>
+            </li>
+
+        </ul>
+
+    </div>
+</td>
                 {% empty %}
                 <tr>
                     <td colspan="6" class="text-center text-muted py-5">
