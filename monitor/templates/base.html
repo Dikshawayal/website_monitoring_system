@@ -53,6 +53,11 @@
             --text-secondary: #D1D5DB;
             --text-muted: #9CA3AF;
 
+            --bs-body-bg: #0B0F1A;
+            --bs-card-bg: #1A1F2E;
+            --bs-card-cap-bg: #1A1F2E;
+            --bs-border-color: rgba(255,255,255,0.06);
+
             --shadow-sm: 0 1px 3px rgba(0,0,0,0.2);
             --shadow: 0 4px 24px rgba(0,0,0,0.3);
             --shadow-lg: 0 12px 48px rgba(0,0,0,0.4);
@@ -310,6 +315,11 @@
         .stat-card:nth-child(2) { animation-delay: 0.1s; }
         .stat-card:nth-child(3) { animation-delay: 0.2s; }
 
+        .stat-card-link {
+            text-decoration: none;
+            display: block;
+        }
+
         .stat-card:hover {
             background: var(--bg-card-hover);
             border-color: rgba(124,58,237,0.15);
@@ -519,6 +529,7 @@
             padding: 10px 20px;
             font-weight: 600;
             font-size: 14px;
+            color: #fff;
             transition: all var(--transition);
         }
 
@@ -538,9 +549,20 @@
             transition: all var(--transition);
         }
 
+        body.dark-mode .btn-outline-primary {
+            color: #fff;
+            border-color: rgba(255,255,255,0.3);
+        }
+
         .btn-outline-primary:hover {
             background: rgba(124,58,237,0.08);
             border-color: var(--primary);
+        }
+
+        body.dark-mode .btn-outline-primary:hover {
+            background: rgba(167,139,250,0.12);
+            border-color: #A78BFA;
+            color: #fff;
         }
 
         .btn-outline-secondary {
@@ -680,6 +702,25 @@
         .dropdown-menu-custom .dropdown-divider {
             border-color: var(--border-color);
             margin: 4px 0;
+        }
+
+        body.dark-mode .dropdown-menu .dropdown-item {
+            color: #ffffff !important;
+        }
+
+        body.dark-mode .dropdown-menu .dropdown-item:hover,
+        body.dark-mode .dropdown-menu .dropdown-item:focus {
+            color: #ffffff !important;
+            background: rgba(255,255,255,0.08);
+        }
+
+        body.dark-mode .dropdown-menu .dropdown-item.active {
+            color: #ffffff !important;
+            background: rgba(255,255,255,0.08);
+        }
+
+        body.dark-mode .dropdown-menu .dropdown-item.text-danger {
+            color: #ff6b6b !important;
         }
 
         /* ============================================================

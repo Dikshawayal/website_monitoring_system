@@ -2180,3 +2180,70 @@ INFO 2026-07-09 10:36:46,144 checker Check complete - Total: 4, UP: 2, DOWN: 2, 
 INFO 2026-07-09 10:36:46,190 schedular ========================================
 INFO 2026-07-09 10:36:46,192 schedular Scheduled Website Check Finished
 INFO 2026-07-09 10:36:46,193 schedular ========================================
+INFO 2026-07-09 11:28:58,481 schedular ========================================
+INFO 2026-07-09 11:28:58,481 schedular Scheduled Website Check Started
+INFO 2026-07-09 11:28:58,481 schedular ========================================
+INFO 2026-07-09 11:28:58,495 checker Starting check of all websites (4 total)
+INFO 2026-07-09 11:28:58,509 schedular ========================================
+INFO 2026-07-09 11:28:58,509 schedular APScheduler Started Successfully
+INFO 2026-07-09 11:28:58,509 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-09 11:28:58,510 schedular Next Run : 2026-07-09 10:58:58.474785+00:00
+INFO 2026-07-09 11:28:58,510 schedular ========================================
+INFO 2026-07-09 11:28:58,510 apps APScheduler started successfully.
+WARNING 2026-07-09 11:29:02,290 checker High response time for CloudRegex: 3775.8ms
+INFO 2026-07-09 11:29:02,311 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 3775.8ms
+WARNING 2026-07-09 11:29:02,645 checker Still DOWN for Whatsapp
+INFO 2026-07-09 11:29:02,788 checker Checked Whatsapp (https://vczxjg.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-09 11:29:14,103 checker Still DOWN for Chatgpt
+INFO 2026-07-09 11:29:14,126 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+ERROR 2026-07-09 11:29:41,424 checker Email delivery failed via smtp.gmail.com | Subject: [ALERT] Critical Website Down Alert - Instagram | Error: [Errno 11001] getaddrinfo failed
+WARNING 2026-07-09 11:29:41,425 checker Status change UP->DOWN for Instagram
+INFO 2026-07-09 11:29:41,474 checker Checked Instagram (https://instagram.com) - Status: DOWN, Response: Nonems
+INFO 2026-07-09 11:29:41,474 checker Check complete - Total: 4, UP: 1, DOWN: 3, Errors: 0
+INFO 2026-07-09 11:29:41,490 schedular ========================================
+INFO 2026-07-09 11:29:41,490 schedular Scheduled Website Check Finished
+INFO 2026-07-09 11:29:41,491 schedular ========================================
+INFO 2026-07-09 11:48:22,908 schedular ========================================
+INFO 2026-07-09 11:48:22,910 schedular Scheduled Website Check Started
+INFO 2026-07-09 11:48:22,911 schedular ========================================
+INFO 2026-07-09 11:48:22,987 checker Starting check of all websites (4 total)
+INFO 2026-07-09 11:48:23,067 schedular ========================================
+INFO 2026-07-09 11:48:23,067 schedular APScheduler Started Successfully
+INFO 2026-07-09 11:48:23,074 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-09 11:48:23,076 schedular Next Run : 2026-07-09 11:18:22.864238+00:00
+INFO 2026-07-09 11:48:23,087 schedular ========================================
+INFO 2026-07-09 11:48:23,088 apps APScheduler started successfully.
+WARNING 2026-07-09 11:48:47,070 checker High response time for CloudRegex: 23769.11ms
+INFO 2026-07-09 11:48:47,238 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 23769.11ms
+WARNING 2026-07-09 11:48:47,736 checker Still DOWN for Whatsapp
+INFO 2026-07-09 11:48:47,997 checker Checked Whatsapp (https://vczxjg.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-09 11:48:58,398 checker Still DOWN for Chatgpt
+INFO 2026-07-09 11:48:58,663 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+INFO 2026-07-09 11:49:07,363 checker Status change DOWN->UP for Instagram
+INFO 2026-07-09 11:49:07,400 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 8638.43ms
+INFO 2026-07-09 11:49:07,401 checker Check complete - Total: 4, UP: 2, DOWN: 2, Errors: 0
+INFO 2026-07-09 11:49:07,428 schedular ========================================
+INFO 2026-07-09 11:49:07,428 schedular Scheduled Website Check Finished
+INFO 2026-07-09 11:49:07,429 schedular ========================================
+INFO 2026-07-09 12:10:46,342 schedular ========================================
+INFO 2026-07-09 12:10:46,342 schedular Scheduled Website Check Started
+INFO 2026-07-09 12:10:46,342 schedular ========================================
+INFO 2026-07-09 12:10:46,378 checker Starting check of all websites (4 total)
+INFO 2026-07-09 12:10:46,411 schedular ========================================
+INFO 2026-07-09 12:10:46,412 schedular APScheduler Started Successfully
+INFO 2026-07-09 12:10:46,412 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-09 12:10:46,412 schedular Next Run : 2026-07-09 11:40:46.336157+00:00
+INFO 2026-07-09 12:10:46,412 schedular ========================================
+INFO 2026-07-09 12:10:46,412 apps APScheduler started successfully.
+WARNING 2026-07-09 12:10:55,607 checker High response time for CloudRegex: 9212.86ms
+INFO 2026-07-09 12:10:55,628 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 9212.86ms
+WARNING 2026-07-09 12:11:07,535 checker Still DOWN for Whatsapp
+INFO 2026-07-09 12:11:07,553 checker Checked Whatsapp (https://vczxjg.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-09 12:11:18,411 checker Still DOWN for Chatgpt
+INFO 2026-07-09 12:11:18,426 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-09 12:11:30,829 checker High response time for Instagram: 12393.32ms
+INFO 2026-07-09 12:11:30,845 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 12393.32ms
+INFO 2026-07-09 12:11:30,845 checker Check complete - Total: 4, UP: 2, DOWN: 2, Errors: 0
+INFO 2026-07-09 12:11:30,854 schedular ========================================
+INFO 2026-07-09 12:11:30,854 schedular Scheduled Website Check Finished
+INFO 2026-07-09 12:11:30,854 schedular ========================================

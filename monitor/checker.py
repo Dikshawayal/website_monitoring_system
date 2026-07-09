@@ -27,32 +27,26 @@ def send_website_email(subject, html_message):
     try:
         recipients = get_notification_recipients()
         if not recipients:
-            logger.warning("No email recipients configured. Email not sent.")
+            logger.warning("No email recipients configured.")
             return
+
+        logger.info(f"Attempting to send email to {recipients}")
 
         email = EmailMultiAlternatives(
             subject=subject,
-            body="This email requires HTML support. Please view this email in a modern email client.",
+            body="Website Down Alert",
             from_email=settings.DEFAULT_FROM_EMAIL,
             to=recipients,
         )
         email.attach_alternative(html_message, "text/html")
-        email.send()
 
-        logger.info(
-            "Email delivered successfully via %s | Subject: %s | Recipients: %s",
-            settings.EMAIL_HOST,
-            subject,
-            recipients,
-        )
+        result = email.send()
 
-    except Exception as e:
-        logger.error(
-            "Email delivery failed via %s | Subject: %s | Error: %s",
-            settings.EMAIL_HOST,
-            subject,
-            e,
-        )
+        logger.info(f"email.send() returned: {result}")
+        logger.info("Email sent successfully.")
+
+    except Exception:
+        logger.exception("Failed to send email")
 
 
 def check_website(url):

@@ -6,6 +6,53 @@ My Account
 
 {% block content %}
 
+<style>
+/* Account Page */
+
+.account-page .card{
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+.account-page .card-header{
+    background: var(--bg-card);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.account-page .card-header h3,
+.account-page h4,
+.account-page label{
+    color: var(--text-primary) !important;
+}
+
+.account-page .form-control{
+    background: var(--bg-card);
+    color: var(--text-primary);
+    border:1px solid var(--border-color);
+}
+
+.account-page .form-control:disabled{
+    background: var(--bg-card-hover);
+    color: var(--text-primary);
+}
+
+.account-page .btn-outline-primary{
+    color: var(--text-primary);
+    border-color: var(--border-color);
+}
+
+.account-page .btn-outline-primary:hover{
+    color:#fff;
+}
+
+.account-page .alert{
+    color: var(--text-primary);
+}
+</style>
+
+<div class="account-page">
+
 <div class="container-fluid">
 
     <div class="row justify-content-center">
@@ -14,7 +61,7 @@ My Account
 
             <div class="card shadow-sm border-0 rounded-4">
 
-                <div class="card-header bg-white py-4">
+                <div class="card-header py-4">
                     <h3 class="mb-0">
                         <i class="bi bi-person-circle me-2"></i>
                         My Account
