@@ -2158,3 +2158,25 @@ INFO 2026-07-08 12:42:58,685 checker Email delivered successfully via smtp.gmail
 WARNING 2026-07-08 12:42:58,687 checker Status change UP->DOWN for Whatsapp
 WARNING 2026-07-08 12:43:02,633 checker Still DOWN for Chatgpt
 WARNING 2026-07-08 12:43:10,699 checker High response time for Instagram: 7945.46ms
+INFO 2026-07-09 10:36:01,991 schedular ========================================
+INFO 2026-07-09 10:36:01,994 schedular Scheduled Website Check Started
+INFO 2026-07-09 10:36:01,996 schedular ========================================
+INFO 2026-07-09 10:36:02,225 checker Starting check of all websites (4 total)
+INFO 2026-07-09 10:36:02,504 schedular ========================================
+INFO 2026-07-09 10:36:02,505 schedular APScheduler Started Successfully
+INFO 2026-07-09 10:36:02,506 schedular Job Name : Check all websites every 5 hours
+INFO 2026-07-09 10:36:02,508 schedular Next Run : 2026-07-09 10:06:01.969157+00:00
+INFO 2026-07-09 10:36:02,510 schedular ========================================
+INFO 2026-07-09 10:36:02,511 apps APScheduler started successfully.
+WARNING 2026-07-09 10:36:11,245 checker High response time for CloudRegex: 8985.38ms
+INFO 2026-07-09 10:36:11,283 checker Checked CloudRegex (https://cloudregex.com) - Status: UP, Response: 8985.38ms
+WARNING 2026-07-09 10:36:11,575 checker Still DOWN for Whatsapp
+INFO 2026-07-09 10:36:11,609 checker Checked Whatsapp (https://vczxjg.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-09 10:36:22,131 checker Still DOWN for Chatgpt
+INFO 2026-07-09 10:36:22,187 checker Checked Chatgpt (https://www.wya.com) - Status: DOWN, Response: Nonems
+WARNING 2026-07-09 10:36:46,080 checker High response time for Instagram: 23849.3ms
+INFO 2026-07-09 10:36:46,143 checker Checked Instagram (https://instagram.com) - Status: UP, Response: 23849.3ms
+INFO 2026-07-09 10:36:46,144 checker Check complete - Total: 4, UP: 2, DOWN: 2, Errors: 0
+INFO 2026-07-09 10:36:46,190 schedular ========================================
+INFO 2026-07-09 10:36:46,192 schedular Scheduled Website Check Finished
+INFO 2026-07-09 10:36:46,193 schedular ========================================
